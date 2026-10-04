@@ -9,628 +9,8 @@ X-WR-CALDESC:Auto-generated. Movies via TMDB\, TV premieres via TVmaze.
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:tvmaze-93614-s1@release-cal.local
-DTSTAMP:20260902T154750Z
-DTSTART;VALUE=DATE:20260902
-DTEND;VALUE=DATE:20260903
-SUMMARY:📺 Turning Point: Generation 9/11 — S1 premiere
-DESCRIPTION:series premiere · Netflix · Documentary\n<p>One-off</p>\n\nhttps://www.tvmaze.com/shows/93614
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-64992-s2@release-cal.local
-DTSTAMP:20260902T154752Z
-DTSTART;VALUE=DATE:20260903
-DTEND;VALUE=DATE:20260904
-SUMMARY:📺 The Gentlemen — S2 premiere
-DESCRIPTION:season 2 premiere · Netflix · Scripted\n<p>When aristocratic Eddie inherits the family estate\, he discovers that it's home to an enormous weed empire — and its proprietors aren't going anywhere.</p>\n\nhttps://www.tvmaze.com/shows/64992
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-86764-s2@release-cal.local
-DTSTAMP:20260902T154756Z
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260906
-SUMMARY:📺 Crossroad Springs — S2 premiere
-DESCRIPTION:season 2 premiere · Great American Pure Flix · Scripted\n<p>The Hamilton family faces financial struggles and staffing shortages on Hamilton Ranch. Pastor James and Janet return to help the family\, encountering a generational feud between the family owners. James starts a cowboy church on the farm\, where faith\, family\, and ranch life a\n\nhttps://www.tvmaze.com/shows/86764
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-82330-s1@release-cal.local
-DTSTAMP:20260902T154757Z
-DTSTART;VALUE=DATE:20260906
-DTEND;VALUE=DATE:20260907
-SUMMARY:📺 Marble Hall Murders — S1 premiere
-DESCRIPTION:series premiere · PBS · Scripted\n<p>Susan Ryeland\, is a book editor who all too often finds herself involved in baffling murders. Returning to England\, she is reluctantly drawn into a new Atticus Pünd mystery\, this time written by a new\, young writer. "Pünd's Last Case" is a story set in 1955\, in an exotic villa\n\nhttps://www.tvmaze.com/shows/82330
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-87187-s1@release-cal.local
-DTSTAMP:20260902T154757Z
-DTSTART;VALUE=DATE:20260906
-DTEND;VALUE=DATE:20260907
-SUMMARY:📺 A Tale Of Two Cities — S1 premiere
-DESCRIPTION:series premiere · MGM+ · Scripted\n<p>London\, 1782. Tensions run high in the war between France and Britain. A young woman\, Lucie Manette has her life upended when she receives a message from Paris - her father\, assumed dead for almost 20 years\, may be alive. The messenger - idealistic French emigré\, Charles Darna\n\nhttps://www.tvmaze.com/shows/87187
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-92751-s1@release-cal.local
-DTSTAMP:20260902T154800Z
-DTSTART;VALUE=DATE:20260908
-DTEND;VALUE=DATE:20260909
-SUMMARY:📺 The Drop: A Snowfall Saga — S1 premiere
-DESCRIPTION:series premiere · FX · Scripted\n<p><b>The Drop</b> follows Wanda and Leon (from the original Snowfall series)\, who are now fighting to reinvent themselves in '90s Los Angeles\, where the fallout from the crack epidemic is fueling a new game: the rise of West Coast rap.</p>\n\nhttps://www.tvmaze.com/shows/92751
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-50023-s7@release-cal.local
-DTSTAMP:20260902T154800Z
-DTSTART;VALUE=DATE:20260908
-DTEND;VALUE=DATE:20260909
-SUMMARY:📺 Tyler Perry's Assisted Living — S7 premiere
-DESCRIPTION:season 7 premiere · BET · Scripted\n<p>Jeremy\, a patriarch of a young family with teenage children\, loses his job and decides to move to the backwoods of Georgia to help his crazy grandfather. Grandpa Vinny has foolishly purchased a terribly run-down home for the elderly and he is in way over his head\, but comedy e\n\nhttps://www.tvmaze.com/shows/50023
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-87107-s2@release-cal.local
-DTSTAMP:20260902T154800Z
-DTSTART;VALUE=DATE:20260908
-DTEND;VALUE=DATE:20260909
-SUMMARY:📺 Star Trek: Scouts — S2 premiere
-DESCRIPTION:season 2 premiere · YouTube · Animation\n<p><b>Star Trek: Scouts </b>follows three 8-year-old friends\, JR\, Sprocket and Roo\, as they train to become future Starfleet Explorers by going on epic\, out-of-this-world missions that push them to "discover\, grow and boldly go!"</p>\n\nhttps://www.tvmaze.com/shows/87107
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-90434-s1@release-cal.local
-DTSTAMP:20260902T154800Z
-DTSTART;VALUE=DATE:20260908
-DTEND;VALUE=DATE:20260909
-SUMMARY:📺 DANG! — S1 premiere
-DESCRIPTION:series premiere · Netflix · Animation\n<p><b>DANG! </b>follows a brother and sister duo whose fun\, messy lives in New York City are interrupted when their worst nightmare comes true: their high-achieving older sister shows up and wants to hang out with them. </p>\n\nhttps://www.tvmaze.com/shows/90434
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-78183-s1@release-cal.local
-DTSTAMP:20260902T154802Z
-DTSTART;VALUE=DATE:20260909
-DTEND;VALUE=DATE:20260910
-SUMMARY:📺 Last Seen — S1 premiere
-DESCRIPTION:series premiere · Apple TV · Scripted\n<p>Police detective Ian Ridley's life fell apart 11 years ago when his young daughter\, Maggie\, disappeared without a trace. Now working as a police dispatcher\, the only thing that has kept him going is his implacable refusal to accept that she might be gone forever. When he recei\n\nhttps://www.tvmaze.com/shows/78183
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-81597-s2@release-cal.local
-DTSTAMP:20260902T154802Z
-DTSTART;VALUE=DATE:20260909
-DTEND;VALUE=DATE:20260910
-SUMMARY:📺 Made in Korea — S2 premiere
-DESCRIPTION:season 2 premiere · Disney+ · Scripted\n<p>In 1970s South Korea a man determined to reach the pinnacle of wealth and power lives a double life - KCIA agent by day and dangerous business man by night. Determined and unstoppable\, he comes face to face with a tenacious prosecutor willing to risk it all to bring him down.<\n\nhttps://www.tvmaze.com/shows/81597
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-93882-s1@release-cal.local
-DTSTAMP:20260902T154804Z
-DTSTART;VALUE=DATE:20260910
-DTEND;VALUE=DATE:20260911
-SUMMARY:📺 A Killer Story — S1 premiere
-DESCRIPTION:series premiere · HBO · Documentary\n<p><b>A Killer Story </b>examines a polarizing murder case that spanned more than two decades and captured national attention. At the center of the case is Dana Chandler\, who was accused of killing her ex-husband and his girlfriend in 2002. </p>\n\nhttps://www.tvmaze.com/shows/93882
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-86765-s2@release-cal.local
-DTSTAMP:20260902T154804Z
-DTSTART;VALUE=DATE:20260910
-DTEND;VALUE=DATE:20260911
-SUMMARY:📺 Krypto Saves the Day! — S2 premiere
-DESCRIPTION:season 2 premiere · YouTube · Animation\n<p>Follows Superman's dog Krypto as he uses his superpowers to tackle everyday adventures and rescues around Metropolis.</p>\n\nhttps://www.tvmaze.com/shows/86765
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-86983-s1@release-cal.local
-DTSTAMP:20260902T154804Z
-DTSTART;VALUE=DATE:20260910
-DTEND;VALUE=DATE:20260911
-SUMMARY:📺 Crew Girl — S1 premiere
-DESCRIPTION:series premiere · Netflix · Scripted\n<p><b>Crew Girl </b>is described as a frothy\, coming-of-age teen drama about a 16-year-old female rower Teagan who becomes the coxswain of a dysfunctional all-boys rowing team at an elite East Coast Prep School. Warring rivals\, messy romantic entanglements\, and betrayed friendshi\n\nhttps://www.tvmaze.com/shows/86983
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-92590-s1@release-cal.local
-DTSTAMP:20260902T154804Z
-DTSTART;VALUE=DATE:20260910
-DTEND;VALUE=DATE:20260911
-SUMMARY:📺 De Eetclub — S1 premiere
-DESCRIPTION:series premiere · Netflix · Scripted\n<p>When Karen moves with her family to Bergen\, they are warmly welcomed into the dinner club\, a seductive group of friends who fully indulge in an extravagant and hedonistic lifestyle. Until one of the luxurious villas goes up in flames\, and their friend Evert is killed. His wife\n\nhttps://www.tvmaze.com/shows/92590
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-93562-s1@release-cal.local
-DTSTAMP:20260902T154806Z
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
-SUMMARY:📺 Honor Thy Mother — S1 premiere
-DESCRIPTION:series premiere · Prime Video · Scripted\n<p>After years of estrangement\, a mother and daughter find themselves on opposite sides of a bitter contest for what each believes is rightfully hers. Old wounds resurface as they weigh whether to confront the past together or let it drive them further apart.</p><p><br /> </p>\n\nhttps://www.tvmaze.com/shows/93562
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-88042-s1@release-cal.local
-DTSTAMP:20260902T154807Z
-DTSTART;VALUE=DATE:20260912
-DTEND;VALUE=DATE:20260913
-SUMMARY:📺 Police in Love — S1 premiere
-DESCRIPTION:series premiere · WeTV · Scripted\n<p>Marry me? Just six months and we'll be divorced. </p><p>Inspector Thiartha's mother gives him an ultimatum. To counteract his bad luck\, he'll have to marry someone born Monday\, the thirteenth of October. As if that weren't hard enough\, their first and last names must contain t\n\nhttps://www.tvmaze.com/shows/88042
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-79132-s1@release-cal.local
-DTSTAMP:20260902T154809Z
-DTSTART;VALUE=DATE:20260913
-DTEND;VALUE=DATE:20260914
-SUMMARY:📺 High Value Target: The Hunt for Saddam — S1 premiere
-DESCRIPTION:series premiere · TNT · Scripted\n<p><b>High Value Target: The Hunt for Saddam </b>is the story about a man's relentless quest for truth\, a nation's complicated campaign for justice\, and the bonds between fathers and sons. It tells\, for the first time\, the intimate story of two men at the heart of one of the 21st\n\nhttps://www.tvmaze.com/shows/79132
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-51222-s14@release-cal.local
-DTSTAMP:20260902T154811Z
-DTSTART;VALUE=DATE:20260914
-DTEND;VALUE=DATE:20260915
-SUMMARY:📺 Gabby's Dollhouse — S14 premiere
-DESCRIPTION:season 14 premiere · Netflix · Animation\n<p>Cute cats\, quirky crafts and colorful magic! Join kitty enthusiast Gabby and her sidekick Pandy Paws as they team up for a series of animated adventures.</p>\n\nhttps://www.tvmaze.com/shows/51222
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-84527-s2@release-cal.local
-DTSTAMP:20260902T154812Z
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20260916
-SUMMARY:📺 R.J. Decker — S2 premiere
-DESCRIPTION:season 2 premiere · ABC · Scripted\n<p><b>R.J. Decker </b>centers on the eponymous R.J. Decker\, a disgraced newspaper photographer and ex-con who starts over as a private investigator in the colorful-if-crime-filled world of South Florida\, tackling cases that range from slightly odd to outright bizarre with the hel\n\nhttps://www.tvmaze.com/shows/84527
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-83990-s2@release-cal.local
-DTSTAMP:20260902T154812Z
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20260916
-SUMMARY:📺 Toxic — S2 premiere
-DESCRIPTION:season 2 premiere · Investigation Discovery · Documentary\n<p><b>Toxic </b>follows Chambers as she draws from her experience and background as an investigative journalist to delve into the dark and twisted side of relationships. Through conversations with survivors from across the country\, Chambers brings viewers into the raw and real st\n\nhttps://www.tvmaze.com/shows/83990
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-85416-s1@release-cal.local
-DTSTAMP:20260902T154812Z
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20260916
-SUMMARY:📺 Agatha Christie's Tommy & Tuppence — S1 premiere
-DESCRIPTION:series premiere · BritBox · Scripted\n<p>Tommy and Tuppence are a detective duo for the ages. They fall in love\, fall out of it\, and tumble back in\, all while solving some thrilling\, entertaining mysteries along the way.</p>\n\nhttps://www.tvmaze.com/shows/85416
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-112-s29@release-cal.local
-DTSTAMP:20260902T154814Z
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
-SUMMARY:📺 South Park — S29 premiere
-DESCRIPTION:season 29 premiere · Comedy Central · Animation\n<p><b>South Park</b> is an adult comedy animation show centred around 4 children in the small town of south park. Its humour is often dark involving satirical elements and mocking current real-life events.</p>\n\nhttps://www.tvmaze.com/shows/112
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-45039-s6@release-cal.local
-DTSTAMP:20260902T154814Z
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
-SUMMARY:📺 Slow Horses — S6 premiere
-DESCRIPTION:season 6 premiere · Apple TV · Scripted\n<p><b>Slow Horses</b> follows the story of a group of British intelligence agents who serve in a dumping ground department of MI5 called Slough House after the big mistakes they've made that resulted in the end of their mainstream careers.</p><p>This quick-witted spy drama follow\n\nhttps://www.tvmaze.com/shows/45039
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-76188-s1@release-cal.local
-DTSTAMP:20260902T154814Z
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
-SUMMARY:📺 Golden Axe — S1 premiere
-DESCRIPTION:series premiere · Paramount+ · Animation\n<p><b>Golden Axe</b> follows veteran warriors Ax Battler\, Tyris Flare\, and Gilius Thunderhead as they once again battle to save Yuria from the evil giant Death Adder who just won't seem to stay dead. Fortunately\, this time they have the inexperienced and underprepared Hampton Squ\n\nhttps://www.tvmaze.com/shows/76188
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-82707-s1@release-cal.local
-DTSTAMP:20260902T154814Z
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
-SUMMARY:📺 Neagley — S1 premiere
-DESCRIPTION:series premiere · Prime Video · Scripted\n<p>Frances Neagley is a private investigator in Chicago and former military protege of Jack Reacher in the Army's 110th Special Investigations Unit. When she learns that a beloved friend from her past has been killed in a suspicious accident\, she becomes hell-bent on justice. Usi\n\nhttps://www.tvmaze.com/shows/82707
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-91059-s1@release-cal.local
-DTSTAMP:20260902T154814Z
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
-SUMMARY:📺 City of Blood — S1 premiere
-DESCRIPTION:series premiere · Disney+ · Scripted\n<p>Berlin – a city-state on the brink. While a privileged few live beneath a climate-controlled dome\, those outside struggle to survive in a world ravaged by heat\, corruption\, and crime. After years apart\, sisters Bea and Phoebe are reunited and uncover a dark secret: vampires ar\n\nhttps://www.tvmaze.com/shows/91059
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-93728-s1@release-cal.local
-DTSTAMP:20260902T154814Z
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
-SUMMARY:📺 Lalka — S1 premiere
-DESCRIPTION:series premiere · Netflix · Scripted\n<p>Driven by fierce ambition\, Stanisław is determined to climb the social ladder\, and his obsessive infatuation with Izabela becomes a gateway to the world he longs to conquer. Izabela\, in turn\, strives to break free from the rigid confines of aristocratic order and define her ow\n\nhttps://www.tvmaze.com/shows/93728
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-85214-s2@release-cal.local
-DTSTAMP:20260902T154816Z
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260918
-SUMMARY:📺 Stranger Things: Tales from '85 — S2 premiere
-DESCRIPTION:season 2 premiere · Netflix · Animation\n<p>In the winter of 1985\, snow blankets the town and the horrors of the Upside Down are finally fading. Our heroes Eleven\, Mike\, Will\, Dustin\, Lucas\, and Max have settled back into a normal life of D&amp\;D\, snowball fights\, and quiet days. But beneath the ice\, something terrifyin\n\nhttps://www.tvmaze.com/shows/85214
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-87597-s1@release-cal.local
-DTSTAMP:20260902T154816Z
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260918
-SUMMARY:📺 Monster: The Lizzie Borden Story — S1 premiere
-DESCRIPTION:series premiere · Netflix · Scripted\n<p><b>Monster: The Lizzie Borden Story</b> tells the story of how one young woman changed what the world believed a killer could be... all it took was an axe.</p><p>When the repressed daughter of a wealthy New England family and her rebellious maid find themselves trapped in a ho\n\nhttps://www.tvmaze.com/shows/87597
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-93793-s1@release-cal.local
-DTSTAMP:20260902T154816Z
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260918
-SUMMARY:📺 Seni Tanıyorum — S1 premiere
-DESCRIPTION:series premiere · Netflix · Scripted\n<p>After giving birth\, Funda wants to return to painting\, the career she had paused\, and finally finds the nanny she has been looking for. Nanny Nazlı's mystery and unsettling nature will change Funda and her husband İlker's lives forever. </p>\n\nhttps://www.tvmaze.com/shows/93793
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-63386-s2@release-cal.local
-DTSTAMP:20260902T154817Z
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260919
-SUMMARY:📺 Outlander: Blood of My Blood — S2 premiere
-DESCRIPTION:season 2 premiere · STARZ · Scripted\n<p><b>Outlander: Blood of My Blood</b> explores the lives and relationship of Claire's parents\, Julia Moriston and Henry Beauchamp\, and Jamie's parents\, Ellen MacKenzie and Brian Fraser. The series centers on these two parallel love stories set in two different time periods\, with\n\nhttps://www.tvmaze.com/shows/63386
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-92764-s1@release-cal.local
-DTSTAMP:20260902T154817Z
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260919
-SUMMARY:📺 JAŸ-Z IN 8 — S1 premiere
-DESCRIPTION:series premiere · HBO · Documentary\n<p>30 years after his landmark debut album "Reasonable Doubt<i>\,</i>" artist\, icon\, philanthropist\, entrepreneur JAŸ-Z sits down with longtime friend\, producer\, and director Rick Rubin for an intimate reflection on his storied career\, revisiting the music together and unpacking h\n\nhttps://www.tvmaze.com/shows/92764
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-75026-s2@release-cal.local
-DTSTAMP:20260902T154817Z
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260919
-SUMMARY:📺 MobLand — S2 premiere
-DESCRIPTION:season 2 premiere · Paramount+ · Scripted\n<p>With the most powerful clients in Europe\, <b>MobLand </b>will see family fortunes and reputations at risk\, odd alliances unfold\, and betrayal around every corner\; and while the family might be London's most elite fixers today\, the nature of their business means there is no gua\n\nhttps://www.tvmaze.com/shows/75026
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-91016-s1@release-cal.local
-DTSTAMP:20260902T154817Z
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260919
-SUMMARY:📺 The Scandal — S1 premiere
-DESCRIPTION:series premiere · Netflix · Scripted\n<p>In Joseon\, a secret proposal ignites hidden desires in a gifted noblewoman\, a famed lover and an unsuspecting lady caught in their dangerous game.</p><p><br /> </p>\n\nhttps://www.tvmaze.com/shows/91016
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-3527-s2026@release-cal.local
-DTSTAMP:20260902T154819Z
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
-SUMMARY:📺 Garage Sale Mystery — S2026 premiere
-DESCRIPTION:season 2026 premiere · Hallmark Mystery · Scripted\n<p>Jennifer Shannon can always find a diamond in the rough - when it comes to garage sales\, that is! Whether it's a new antique to sell at her consignment shop\, an Atari game for her son or a piece of furniture for her handy husband Jason to refurbish\, she has made a career out o\n\nhttps://www.tvmaze.com/shows/3527
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-93792-s1@release-cal.local
-DTSTAMP:20260902T154820Z
-DTSTART;VALUE=DATE:20260920
-DTEND;VALUE=DATE:20260921
-SUMMARY:📺 Youth — S1 premiere
-DESCRIPTION:series premiere · HBO · Scripted\n<p><b>Youth</b> follows a 50-year-old divorcee's search for sex and love whilst juggling caring for her ailing parents and parenting her should-be grown up son. </p>\n\nhttps://www.tvmaze.com/shows/93792
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-90632-s1@release-cal.local
-DTSTAMP:20260902T154822Z
-DTSTART;VALUE=DATE:20260921
-DTEND;VALUE=DATE:20260922
-SUMMARY:📺 Line of Fire — S1 premiere
-DESCRIPTION:series premiere · NBC · Scripted\n<p>When a U.S. Marshal falls in the line of duty\, a seemingly cut-and-dry case turns into a deadly conspiracy as a family of law enforcement agents become the target of a mysterious assassin. Bridging personal differences and crossing professional boundaries\, the Hollingsworth fa\n\nhttps://www.tvmaze.com/shows/90632
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-84556-s2@release-cal.local
-DTSTAMP:20260902T154823Z
-DTSTART;VALUE=DATE:20260922
-DTEND;VALUE=DATE:20260923
-SUMMARY:📺 Best Medicine — S2 premiere
-DESCRIPTION:season 2 premiere · FOX · Scripted\n<p>In <b>Best Medicine </b>a brilliant surgeon leaves Boston to become a small-town doctor where he spent childhood summers. Despite his medical skills\, his rude manner alienates locals as he battles hidden phobias and struggles with personal connections.</p>\n\nhttps://www.tvmaze.com/shows/84556
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-67884-s3@release-cal.local
-DTSTAMP:20260902T154823Z
-DTSTART;VALUE=DATE:20260922
-DTEND;VALUE=DATE:20260923
-SUMMARY:📺 Doc — S3 premiere
-DESCRIPTION:season 3 premiere · FOX · Scripted\n<p><b>Doc</b> centers on the hard-charging\, brilliant Dr. Amy Larsen\, Chief of Internal and Family Medicine at Westside Hospital in Minneapolis. After a brain injury erases the last eight years of her life\, Amy must navigate an unfamiliar world where she has no recollection of pa\n\nhttps://www.tvmaze.com/shows/67884
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-68625-s1@release-cal.local
-DTSTAMP:20260902T154825Z
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260924
-SUMMARY:📺 Brothers — S1 premiere
-DESCRIPTION:series premiere · Apple TV · Scripted\n<p><b>Brothers</b> is a heartfelt odd couple love story revolving around the strange and beautiful bond between Matthew McConaughey and Woody Harrelson. Matthew and Woody's friendship is tested when their combined families attempt to live together on Matthew's ranch in Texas.</p>\n\nhttps://www.tvmaze.com/shows/68625
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-93677-s1@release-cal.local
-DTSTAMP:20260902T154825Z
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260924
-SUMMARY:📺 Habeas Corpus — S1 premiere
-DESCRIPTION:series premiere · Netflix · Scripted\n<p>The story follows Inez\, a respected law professor who leads a wrongful-conviction review group seeking to prove the innocence of a young man convicted of a crime he claims he did not commit. What Inez doesn't know is that her brightest student\, Marina\, had a secret agenda when\n\nhttps://www.tvmaze.com/shows/93677
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-86377-s2026@release-cal.local
-DTSTAMP:20260902T154827Z
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260925
-SUMMARY:📺 Marvel's Spidey and Iron Man: Avengers Team-Up! — S2026 premiere
-DESCRIPTION:season 2026 premiere · Disney Junior · Animation\n<p>Iron Man and the Avengers join Spidey to stop Ultron and Green Goblin from taking control of the city's devices.</p>\n\nhttps://www.tvmaze.com/shows/86377
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-30-s13@release-cal.local
-DTSTAMP:20260902T154827Z
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260925
-SUMMARY:📺 American Horror Story — S13 premiere
-DESCRIPTION:season 13 premiere · FX · Scripted\n<p><b>American Horror Story </b>is an horror television anthology series. Each season is conceived as a self-contained miniseries\, following a disparate set of characters and settings\, and a storyline with its own beginning\, middle\, and end. While some actors appear for more than\n\nhttps://www.tvmaze.com/shows/30
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-85163-s1@release-cal.local
-DTSTAMP:20260902T154827Z
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260925
-SUMMARY:📺 Mis muertos tristes — S1 premiere
-DESCRIPTION:series premiere · Netflix · Scripted\n<p>Ema\, a 60-year-old doctor\, can see and hear the dead. She calls them "presences" and has lived her entire life avoiding letting this gift connect her with the suffering of others. But when her niece Julie — a disturbed young woman who can also communicate with the dead\, but in\n\nhttps://www.tvmaze.com/shows/85163
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-91916-s1@release-cal.local
-DTSTAMP:20260902T154827Z
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260925
-SUMMARY:📺 A Different World — S1 premiere
-DESCRIPTION:series premiere · Netflix · Scripted\n<p><b>A Different World</b> follows Deborah\, Dwayne Wayne and Whitley Gilbert's free-spirited\, well-intentioned\, yet rebellious youngest child\, as she enters her freshman year at Hillman College. There\, she finds the shadow of her parents difficult to escape as she sets out to bu\n\nhttps://www.tvmaze.com/shows/91916
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-92871-s1@release-cal.local
-DTSTAMP:20260902T154827Z
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260925
-SUMMARY:📺 Balaraw — S1 premiere
-DESCRIPTION:series premiere · Netflix · Scripted\n<p>Years after her mother vanished\, Sabina follows a mysterious clue to an uncharted island\, where she confronts hidden dark secrets within her own family.</p>\n\nhttps://www.tvmaze.com/shows/92871
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-92838-s1@release-cal.local
-DTSTAMP:20260902T154828Z
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-SUMMARY:📺 S.W.A.T.: Exiles — S1 premiere
-DESCRIPTION:series premiere · STARZ · Scripted\n<p>After a high-profile mission goes sideways\, Daniel "Hondo" Harrelson is pulled out of forced retirement to lead a last-chance experimental S.W.A.T. unit made up of untested\, unpredictable young recruits. Hondo must bridge a generational divide\, navigate clashing personalities \n\nhttps://www.tvmaze.com/shows/92838
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-89896-s1@release-cal.local
-DTSTAMP:20260902T154828Z
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-SUMMARY:📺 4 Blocks Zero — S1 premiere
-DESCRIPTION:series premiere · HBO Max · Scripted\n<p>The prequel to the award-winning gangster drama ‘4 Blocks' tells the story of the Hamadys in 1990s Berlin: having fled Lebanon and only accepted as tolerated refugees in Germany\, they struggle to gain a foothold in their new home. Who are they\, how did the family become the mo\n\nhttps://www.tvmaze.com/shows/89896
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-92984-s1@release-cal.local
-DTSTAMP:20260902T154828Z
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-SUMMARY:📺 El problema final — S1 premiere
-DESCRIPTION:series premiere · Netflix · Scripted\n<p>In the spring of 1959\, thirteen people were stuck by a violent storm on a small islet near Mallorca. Any of them could anticipate what is about to happen at the small hotel where they're staying: Elisa Mander\, a discreet British tourist\, is found dead. What initially seems lik\n\nhttps://www.tvmaze.com/shows/92984
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-93776-s1@release-cal.local
-DTSTAMP:20260902T154828Z
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-SUMMARY:📺 Paolo — S1 premiere
-DESCRIPTION:series premiere · HBO Max · Scripted\n<p>Paolo's ordinary working-class existence is upended when he encounters the ambitious\, and magnetic local politician Téophane\, an old school mate. What begins as admiration and a desire to help Téophane's campaign\, soon spirals into an all-consuming obsession\, leading to a dead\n\nhttps://www.tvmaze.com/shows/93776
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-83-s38@release-cal.local
-DTSTAMP:20260902T154831Z
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-SUMMARY:📺 The Simpsons — S38 premiere
-DESCRIPTION:season 38 premiere · FOX · Animation\n<p><b>The Simpsons</b> is the longest running scripted show in US television history. It captures the adventures of Homer\, Marge\, Maggie\, Bart and Lisa who are living in a fictional town called Springfield.</p>\n\nhttps://www.tvmaze.com/shows/83
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-63266-s5@release-cal.local
-DTSTAMP:20260902T154831Z
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-SUMMARY:📺 Animal Control — S5 premiere
-DESCRIPTION:season 5 premiere · FOX · Scripted\n<p><b>Animal Control </b>is a workplace comedy following a group of Animal Control workers whose lives are complicated by the fact that animals are simple\, but humans are not.</p>\n\nhttps://www.tvmaze.com/shows/63266
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-65072-s3@release-cal.local
-DTSTAMP:20260902T154831Z
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-SUMMARY:📺 Universal Basic Guys — S3 premiere
-DESCRIPTION:season 3 premiere · FOX · Animation\n<p>In <b>Universal Basic Guys</b> brothers Mark and Hank Hoagies suddenly find themselves with no jobs when the Glantontown Hot Dog factory switches over to automation. Lucky for them\, the town started a radical Universal Basic Income pilot program\, giving all residents of Glanto\n\nhttps://www.tvmaze.com/shows/65072
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-58638-s3@release-cal.local
-DTSTAMP:20260902T154831Z
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-SUMMARY:📺 Grimsburg — S3 premiere
-DESCRIPTION:season 3 premiere · FOX · Animation\n<p>Marvin Flute may be the greatest detective ever to catch a cannibal clown or correctly identify a mid-century modern armoire. But there's one mystery he still can't crack - his family. Now that he's back in Grimsburg\, a town where everyone has a secret or three\, Flute will fol\n\nhttps://www.tvmaze.com/shows/58638
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-93252-s1@release-cal.local
-DTSTAMP:20260902T154836Z
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:📺 Unmasking a Monster: Aileen Wuornos — S1 premiere
-DESCRIPTION:series premiere · Investigation Discovery · Documentary\n<p>Introducing a new visual approach to true crime storytelling\, <b>Unmasking a Monster: Aileen Wuornos</b> presents next generation visualizations of documented first-person accounts from Wuornos\, those close to her\, and the investigators who worked the case\, accounts previously\n\nhttps://www.tvmaze.com/shows/93252
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-84836-s2@release-cal.local
-DTSTAMP:20260902T154836Z
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:📺 Scrubs — S2 premiere
-DESCRIPTION:season 2 premiere · ABC · Scripted\n<p>Old friends JD and Turk scrub in together for the first time in a long time\, learning that medicine has changed\; interns have changed\; but their bromance has stood the test of time.</p>\n\nhttps://www.tvmaze.com/shows/84836
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-79399-s1@release-cal.local
-DTSTAMP:20260902T154838Z
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-SUMMARY:📺 East of Eden — S1 premiere
-DESCRIPTION:series premiere · Netflix · Scripted\n<p><b>East of Eden </b>will explore the novel's themes of trauma and repair\; love and betrayal\; duty and free will. The series will sketch an intimate portrait of the Trask family against the backdrop of huge historical forces.</p>\n\nhttps://www.tvmaze.com/shows/79399
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-82618-s1@release-cal.local
-DTSTAMP:20260902T154839Z
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-SUMMARY:📺 Kill Jackie — S1 premiere
-DESCRIPTION:series premiere · Prime Video · Scripted\n<p>Jackie Price has been living a luxurious existence for the last twenty years – travelling the world\, selling fine art using sophisticated tax loopholes\, and\, above all\, trying to stay anonymous after escaping a dangerous past as an international cocaine dealer. But just as lif\n\nhttps://www.tvmaze.com/shows/82618
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-83159-s1@release-cal.local
-DTSTAMP:20260902T154839Z
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-SUMMARY:📺 Coven Academy — S1 premiere
-DESCRIPTION:series premiere · Disney+ · Scripted\n<p>In the haunted heart of New Orleans\, <b>Coven Academy</b> follows three teenage witches and their dangerously charming warlock peers at an elite magic boarding school where power is currency\, secrets are lethal and attraction is a liability. Caught between ancient supernatural\n\nhttps://www.tvmaze.com/shows/83159
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-92003-s2@release-cal.local
-DTSTAMP:20260902T154839Z
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-SUMMARY:📺 Adventure Time: Side Quests — S2 premiere
-DESCRIPTION:season 2 premiere · Disney+ · Animation\n<p>The series will serve as a companion to the original <i>Adventure Time\,</i> featuring brand-new adventures for Finn and Jake that aim to "capture the spirit" of the show's earlier years. While <i>Adventure Time</i>went on to include traditional\, episode-spanning story arcs\, <b\n\nhttps://www.tvmaze.com/shows/92003
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvmaze-77795-s1@release-cal.local
-DTSTAMP:20260902T154841Z
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
-SUMMARY:📺 Get Jiro — S1 premiere
-DESCRIPTION:series premiere · Adult Swim · Animation\n<p><b>Get Jiro </b>is set in a not-too-distant future L.A. where master chefs rule the town and people literally kill for a seat at the best restaurants. A mysterious sushi master named Jiro enters a bloody culinary war and begins to craft his recipe for revenge.</p>\n\nhttps://www.tvmaze.com/shows/77795
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:tvmaze-84526-s2@release-cal.local
-DTSTAMP:20260902T154842Z
+DTSTAMP:20261004T221158Z
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
 SUMMARY:📺 Marshals — S2 premiere
@@ -640,7 +20,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tvmaze-63192-s4@release-cal.local
-DTSTAMP:20260902T154842Z
+DTSTAMP:20261004T221158Z
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
 SUMMARY:📺 Tracker — S4 premiere
@@ -649,8 +29,18 @@ CATEGORIES:TV
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tvmaze-79506-s2@release-cal.local
+DTSTAMP:20261004T221200Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:📺 Max & the Midknights — S2 premiere
+DESCRIPTION:season 2 premiere · TeenNick · Animation\n<p><b>Max &amp\; the Midknights </b>follows a determined 10-year-old girl named Max\, who pursues her dream of becoming a knight by leading her friends on an epic adventure in the fantastical medieval kingdom of Byjovia.</p>\n\nhttps://www.tvmaze.com/shows/79506
+CATEGORIES:TV
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tvmaze-32158-s9@release-cal.local
-DTSTAMP:20260902T154843Z
+DTSTAMP:20261004T221200Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:📺 FBI — S9 premiere
@@ -660,7 +50,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tvmaze-82211-s2@release-cal.local
-DTSTAMP:20260902T154843Z
+DTSTAMP:20261004T221200Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:📺 CIA — S2 premiere
@@ -670,7 +60,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tvmaze-87566-s2@release-cal.local
-DTSTAMP:20260902T154843Z
+DTSTAMP:20261004T221200Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:📺 Harlan Coben's Final Twist — S2 premiere
@@ -679,8 +69,28 @@ CATEGORIES:TV
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tvmaze-54982-s3@release-cal.local
+DTSTAMP:20261004T221200Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:📺 Signora Volpe — S3 premiere
+DESCRIPTION:season 3 premiere · Acorn TV · Scripted\n<p>To the casual observer\, there's nothing remarkable about Sylvia.  An intelligent\, confident woman\, Sylvia tends to keep quiet about her formidable linguistic abilities\, impressive knowledge of weaponry\, and skills as a markswoman. Questions about her professional life are met \n\nhttps://www.tvmaze.com/shows/54982
+CATEGORIES:TV
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tvmaze-672-s6@release-cal.local
+DTSTAMP:20261004T221202Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:📺 Phineas and Ferb — S6 premiere
+DESCRIPTION:season 6 premiere · Disney Channel · Animation\n<p><b>Phineas and Ferb</b> are Phineas Flynn and his stepbrother\, Ferb Fletcher who are determined to make every day of their summer vacation fun. They try building a full-scale roller coaster\, becoming musicians\, building a backyard beach\, and traveling back in time to meet dino\n\nhttps://www.tvmaze.com/shows/672
+CATEGORIES:TV
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tvmaze-60-s24@release-cal.local
-DTSTAMP:20260902T154845Z
+DTSTAMP:20261004T221202Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:📺 NCIS — S24 premiere
@@ -689,8 +99,18 @@ CATEGORIES:TV
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tvmaze-80543-s2@release-cal.local
+DTSTAMP:20261004T221202Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:📺 Vampirina: Teenage Vampire — S2 premiere
+DESCRIPTION:season 2 premiere · DisneyNOW · Scripted\n<p><b>Vampirina</b> follows a tween vampire girl who leaves the safety of Transylvania to attend a performing arts boarding school. Living amongst humans for the first time\, she pursues her passion for music while keeping her vampire secret\, something that's made more challenging\n\nhttps://www.tvmaze.com/shows/80543
+CATEGORIES:TV
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tvmaze-91405-s1@release-cal.local
-DTSTAMP:20260902T154845Z
+DTSTAMP:20261004T221202Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:📺 NCIS: New York — S1 premiere
@@ -700,7 +120,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tvmaze-73811-s3@release-cal.local
-DTSTAMP:20260902T154845Z
+DTSTAMP:20261004T221202Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:📺 NCIS: Origins — S3 premiere
@@ -709,18 +129,8 @@ CATEGORIES:TV
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:tvmaze-90425-s1@release-cal.local
-DTSTAMP:20260902T154845Z
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
-SUMMARY:📺 Bass X Machina — S1 premiere
-DESCRIPTION:series premiere · Netflix · Animation\n<p>In a lawless Steampunk West overrun by brutal outlaws\, machines\, and supernatural terrors\, a father is forced to become judge\, jury\, and executioner—knowing that every act of justice meant to protect his family may ultimately cost him the very people he's fighting to save.</p>\n\nhttps://www.tvmaze.com/shows/90425
-CATEGORIES:TV
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:tvmaze-2246-s12@release-cal.local
-DTSTAMP:20260902T154846Z
+DTSTAMP:20261004T221204Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:📺 Chicago Med — S12 premiere
@@ -730,7 +140,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tvmaze-55350-s6@release-cal.local
-DTSTAMP:20260902T154846Z
+DTSTAMP:20261004T221204Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:📺 Abbott Elementary — S6 premiere
@@ -740,7 +150,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tvmaze-59-s15@release-cal.local
-DTSTAMP:20260902T154846Z
+DTSTAMP:20261004T221204Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:📺 Chicago Fire — S15 premiere
@@ -749,8 +159,18 @@ CATEGORIES:TV
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tvmaze-94540-s1@release-cal.local
+DTSTAMP:20261004T221204Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:📺 The Serial Killer Connection — S1 premiere
+DESCRIPTION:series premiere · Investigation Discovery · Documentary\n<p><b>The Serial Killer Connection </b>reveals an unlikely bond forged in the aftermath of a serial killer's crimes. Decades after marrying   Richard "Marc" Evonitz at a young age\, Bonnie Lou learns that her former husband had been living a horrifying double life as a serial kill\n\nhttps://www.tvmaze.com/shows/94540
+CATEGORIES:TV
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tvmaze-56-s14@release-cal.local
-DTSTAMP:20260902T154846Z
+DTSTAMP:20261004T221204Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:📺 Chicago P.D. — S14 premiere
@@ -759,8 +179,28 @@ CATEGORIES:TV
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tvmaze-94651-s1@release-cal.local
+DTSTAMP:20261004T221204Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:📺 Her Baby — S1 premiere
+DESCRIPTION:series premiere · BET · Scripted\n<p>Set against the emotional stakes of a long-awaited pregnancy\, <b>Her Baby</b> follows Naomi and Cory Marsh as they prepare to welcome their child with the help of Imani\, a surrogate who seems almost too good to be true. Warm\, devoted\, and impossibly attuned to their needs\, she\n\nhttps://www.tvmaze.com/shows/94651
+CATEGORIES:TV
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tvmaze-69997-s3@release-cal.local
+DTSTAMP:20261004T221204Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:📺 A Body in the Basement — S3 premiere
+DESCRIPTION:season 3 premiere · Investigation Discovery · Documentary\n<p>These chilling stories of murder hit terrifyingly close to home -- each a real-life tale about the last thing anyone wants to find in their basement\, a dead body. Every episode will make one think twice before ever stepping foot in the basement again.</p>\n\nhttps://www.tvmaze.com/shows/69997
+CATEGORIES:TV
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tvmaze-45562-s1@release-cal.local
-DTSTAMP:20260902T154846Z
+DTSTAMP:20261004T221204Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:📺 Carrie — S1 premiere
@@ -769,8 +209,28 @@ CATEGORIES:TV
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tvmaze-91118-s1@release-cal.local
+DTSTAMP:20261004T221204Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:📺 El círculo — S1 premiere
+DESCRIPTION:series premiere · Netflix · Scripted\n<p>Four friends whose lives unravel after one of them posts a video implicating the Secretary of Defense in the murder of a famous actress. As they dig deeper\, they find themselves entangled in a dangerous web of power\, secrets\, and betrayal.</p>\n\nhttps://www.tvmaze.com/shows/91118
+CATEGORIES:TV
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tvmaze-89997-s1@release-cal.local
+DTSTAMP:20261004T221206Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:📺 Saban — S1 premiere
+DESCRIPTION:series premiere · ESPN · Documentary\n<p><b>Saban </b>tells the story of Nick Saban's extraordinary career\, highlighted by his 17 seasons at Alabama\, where he led the team to six national titles and reestablished the Crimson Tide as the preeminent program in college football.</p><p>The series will peel back the curta\n\nhttps://www.tvmaze.com/shows/89997
+CATEGORIES:TV
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tvmaze-76566-s3@release-cal.local
-DTSTAMP:20260902T154848Z
+DTSTAMP:20261004T221206Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:📺 Georgie & Mandy's First Marriage — S3 premiere
@@ -780,7 +240,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tvmaze-78788-s1@release-cal.local
-DTSTAMP:20260902T154848Z
+DTSTAMP:20261004T221206Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:📺 Eternally Yours — S1 premiere
@@ -790,7 +250,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tvmaze-103-s28@release-cal.local
-DTSTAMP:20260902T154848Z
+DTSTAMP:20261004T221206Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:📺 Law & Order: Special Victims Unit — S28 premiere
@@ -800,7 +260,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tvmaze-66869-s4@release-cal.local
-DTSTAMP:20260902T154848Z
+DTSTAMP:20261004T221206Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:📺 Elsbeth — S4 premiere
@@ -810,7 +270,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tvmaze-562-s26@release-cal.local
-DTSTAMP:20260902T154848Z
+DTSTAMP:20261004T221206Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:📺 Law & Order — S26 premiere
@@ -820,7 +280,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tvmaze-79196-s1@release-cal.local
-DTSTAMP:20260902T154848Z
+DTSTAMP:20261004T221206Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:📺 Cupertino — S1 premiere
@@ -830,7 +290,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tvmaze-93115-s1@release-cal.local
-DTSTAMP:20260902T154848Z
+DTSTAMP:20261004T221206Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:📺 Below — S1 premiere
@@ -839,8 +299,18 @@ CATEGORIES:TV
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tvmaze-79506-s3@release-cal.local
+DTSTAMP:20261004T221208Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:📺 Max & the Midknights — S3 premiere
+DESCRIPTION:season 3 premiere · TeenNick · Animation\n<p><b>Max &amp\; the Midknights </b>follows a determined 10-year-old girl named Max\, who pursues her dream of becoming a knight by leading her friends on an epic adventure in the fantastical medieval kingdom of Byjovia.</p>\n\nhttps://www.tvmaze.com/shows/79506
+CATEGORIES:TV
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tvmaze-76568-s2@release-cal.local
-DTSTAMP:20260902T154849Z
+DTSTAMP:20261004T221208Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:📺 Sheriff Country — S2 premiere
@@ -850,7 +320,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tvmaze-60339-s5@release-cal.local
-DTSTAMP:20260902T154849Z
+DTSTAMP:20261004T221208Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:📺 Fire Country — S5 premiere
@@ -860,7 +330,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tvmaze-82705-s2@release-cal.local
-DTSTAMP:20260902T154849Z
+DTSTAMP:20261004T221208Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:📺 Boston Blue — S2 premiere
@@ -870,7 +340,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tvmaze-83073-s1@release-cal.local
-DTSTAMP:20260902T154849Z
+DTSTAMP:20261004T221208Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:📺 Avatar: Seven Havens — S1 premiere
@@ -879,28 +349,58 @@ CATEGORIES:TV
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tvmaze-85255-s2@release-cal.local
+DTSTAMP:20261004T221208Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:📺 Haunted Hotel — S2 premiere
+DESCRIPTION:season 2 premiere · Netflix · Animation\n<p>A single mother of two struggles to run a haunted hotel with the help of her estranged brother\, who is now one of the ghosts haunting the hotel and thinks the other ghosts have some pretty good ideas.</p>\n\nhttps://www.tvmaze.com/shows/85255
+CATEGORIES:TV
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tvmaze-85376-s2@release-cal.local
+DTSTAMP:20261004T221208Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:📺 Furia — S2 premiere
+DESCRIPTION:season 2 premiere · HBO Max · Scripted\n<p>A contemporary portrait around five women ready to do anything in the face of extreme situations such as extortion\, oppression\, deceit\, exclusion or manipulation in a single shared universe articulated around five conflicts that will develop like a butterfly effect – one as a \n\nhttps://www.tvmaze.com/shows/85376
+CATEGORIES:TV
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tvmaze-90007-s1@release-cal.local
-DTSTAMP:20260902T154849Z
+DTSTAMP:20261004T221208Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:📺 Take Charge of My Heart — S1 premiere
-DESCRIPTION:series premiere · Netflix · Scripted\n<p>A corporate heir with an artificial heart meets a woman who's literally electric. They strike a deal that makes his heart beat — in more ways than one.</p>\n\nhttps://www.tvmaze.com/shows/90007
+DESCRIPTION:series premiere · Netflix · Scripted\n<p>An electrifying romantic comedy about a man whose artificial heart is running out of battery and a woman who has the power to recharge him. Baek Ho Rang\, a third-generation chaebol heir leads one of the nation's top conglomerates' resorts\, a gifted businessman he is skilled in\n\nhttps://www.tvmaze.com/shows/90007
 CATEGORIES:TV
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tvmaze-82377-s1@release-cal.local
-DTSTAMP:20260902T154854Z
+DTSTAMP:20261004T221215Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:📺 Die Falle — S1 premiere
-DESCRIPTION:series premiere · Netflix · Scripted\n<p><b>Die Falle </b>follows famous author Lisa Konrad\, who has not left her house for a decade after witnessing the murder of her sister. One night she sees who she believes was the murdered on television\, and decides to use herself as bait to catch them.</p>\n\nhttps://www.tvmaze.com/shows/82377
+DESCRIPTION:series premiere · Netflix · Scripted\n<p>Successful author Lisa Konrad hasn't left her house in nearly ten years\, ever since she witnessed the murder of her sister Anna. But when she believes she recognizes the killer on television\, she sets out to trap him — using herself as the bait.</p>\n\nhttps://www.tvmaze.com/shows/82377
+CATEGORIES:TV
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tvmaze-94532-s1@release-cal.local
+DTSTAMP:20261004T221215Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:📺 Tyson — S1 premiere
+DESCRIPTION:series premiere · Netflix · Documentary\n<p>In this surprisingly emotional documentary\, heavyweight champ Mike Tyson analyzes the controversies surrounding his career and turbulent private life.</p>\n\nhttps://www.tvmaze.com/shows/94532
 CATEGORIES:TV
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tvmaze-3330-s45@release-cal.local
-DTSTAMP:20260902T154856Z
+DTSTAMP:20261004T221217Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:📺 Nature — S45 premiere
@@ -910,7 +410,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tvmaze-84641-s2@release-cal.local
-DTSTAMP:20260902T154856Z
+DTSTAMP:20261004T221217Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:📺 The Lowdown — S2 premiere
@@ -920,7 +420,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tvmaze-3507-s24@release-cal.local
-DTSTAMP:20260902T154856Z
+DTSTAMP:20261004T221217Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:📺 Secrets of the Dead — S24 premiere
@@ -929,8 +429,18 @@ CATEGORIES:TV
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tvmaze-49022-s4@release-cal.local
+DTSTAMP:20261004T221217Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:📺 Mike Judge's Beavis and Butt-Head — S4 premiere
+DESCRIPTION:season 4 premiere · Comedy Central · Animation\n<p>In this new iteration\, Beavis and Butt-Head are entering a whole new Gen Z world. Comedy Central has ordered two seasons of the new series with meta-themes relatable to both new and old fans - Gen X parents and their Gen Z kids. Judge is set to write\, produce and provide voice\n\nhttps://www.tvmaze.com/shows/49022
+CATEGORIES:TV
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tvmaze-45397-s3@release-cal.local
-DTSTAMP:20260902T154856Z
+DTSTAMP:20261004T221217Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:📺 Helluva Boss — S3 premiere
@@ -940,7 +450,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tvmaze-64950-s1@release-cal.local
-DTSTAMP:20260902T154856Z
+DTSTAMP:20261004T221217Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:📺 VisionQuest — S1 premiere
@@ -949,8 +459,18 @@ CATEGORIES:TV
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tvmaze-85647-s1@release-cal.local
+DTSTAMP:20261004T221217Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:📺 Teach me\, Touch me — S1 premiere
+DESCRIPTION:series premiere · YouTube · Scripted\n<p>Kanthi\, a wealthy 34-year-old man\, meets Gear\, a 4th-year student\, in a VIP club room. Gear wants to learn how to be intimate\, but Kanthi refuses to teach him because he's not attracted to Gear's innocence. Gear is determined to learn\, one way or another.</p>\n\nhttps://www.tvmaze.com/shows/85647
+CATEGORIES:TV
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tvmaze-28152-s10@release-cal.local
-DTSTAMP:20260902T154857Z
+DTSTAMP:20261004T221219Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:📺 9-1-1 — S10 premiere
@@ -960,7 +480,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tvmaze-82759-s2@release-cal.local
-DTSTAMP:20260902T154857Z
+DTSTAMP:20261004T221219Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:📺 9-1-1: Nashville — S2 premiere
@@ -970,7 +490,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tvmaze-67-s23@release-cal.local
-DTSTAMP:20260902T154857Z
+DTSTAMP:20261004T221219Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:📺 Grey's Anatomy — S23 premiere
@@ -980,7 +500,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tvmaze-60213-s4@release-cal.local
-DTSTAMP:20260902T154857Z
+DTSTAMP:20261004T221219Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:📺 The Diplomat — S4 premiere
@@ -990,7 +510,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tvmaze-82462-s1@release-cal.local
-DTSTAMP:20260902T154857Z
+DTSTAMP:20261004T221219Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:📺 Hollywood Arts — S1 premiere
@@ -1000,7 +520,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tvmaze-77768-s2@release-cal.local
-DTSTAMP:20260902T154858Z
+DTSTAMP:20261004T221221Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:📺 The Rainmaker — S2 premiere
@@ -1010,7 +530,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tvmaze-59344-s4@release-cal.local
-DTSTAMP:20260902T154858Z
+DTSTAMP:20261004T221221Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:📺 Tulsa King — S4 premiere
@@ -1019,8 +539,18 @@ CATEGORIES:TV
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tvmaze-91480-s1@release-cal.local
+DTSTAMP:20261004T221221Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:📺 Organize İşler: Karun Hazinesi — S1 premiere
+DESCRIPTION:series premiere · Netflix · Scripted\n<p>When a mythical map falls into the hands of a legendary scam artist\, he decides to pull one last con before leaving it all behind for good.</p>\n\nhttps://www.tvmaze.com/shows/91480
+CATEGORIES:TV
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tvmaze-93264-s1@release-cal.local
-DTSTAMP:20260902T154858Z
+DTSTAMP:20261004T221221Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:📺 Friends Sex and Games — S1 premiere
@@ -1029,8 +559,18 @@ CATEGORIES:TV
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tvmaze-83636-s2026@release-cal.local
+DTSTAMP:20261004T221223Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:📺 Holiday Touchdown — S2026 premiere
+DESCRIPTION:season 2026 premiere · Hallmark Channel · Scripted\n<p>Alana Higman is sure that her family's lifelong history as Kansas City Chiefs superfans makes them a frontrunner to win the team's "Fan of the Year" contest. Derrick\, Director of Fan Engagement\, is tasked with evaluating how Alana and her family stack up against the other two \n\nhttps://www.tvmaze.com/shows/83636
+CATEGORIES:TV
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tvmaze-82716-s2@release-cal.local
-DTSTAMP:20260902T154901Z
+DTSTAMP:20261004T221224Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:📺 Maigret — S2 premiere
@@ -1040,7 +580,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tvmaze-88337-s1@release-cal.local
-DTSTAMP:20260902T154903Z
+DTSTAMP:20261004T221228Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:📺 Cyberpunk: Edgerunners 2 — S1 premiere
@@ -1050,7 +590,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tvmaze-47856-s2@release-cal.local
-DTSTAMP:20260902T154905Z
+DTSTAMP:20261004T221229Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:📺 The Terminal List — S2 premiere
@@ -1060,7 +600,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tvmaze-71074-s2@release-cal.local
-DTSTAMP:20260902T154905Z
+DTSTAMP:20261004T221229Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:📺 Where's Wanda? — S2 premiere
@@ -1069,8 +609,38 @@ CATEGORIES:TV
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tvmaze-5310-s13@release-cal.local
+DTSTAMP:20261004T221231Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:📺 After the First 48 — S13 premiere
+DESCRIPTION:season 13 premiere · A&E · Documentary\n<p><b>After the First 48</b> revisits some of the most powerful cases originally featured on the First 48 and features exclusive interviews with detectives\, prosecutors\, defense attorneys\, and families of victims. After the First 48 takes viewers through the dramatic and emotiona\n\nhttps://www.tvmaze.com/shows/5310
+CATEGORIES:TV
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tvmaze-77060-s3@release-cal.local
+DTSTAMP:20261004T221231Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:📺 Nobody Wants This — S3 premiere
+DESCRIPTION:season 3 premiere · Netflix · Scripted\n<p>An agnostic sex podcaster and a rabbi walk into a party. No\, it's not the start of a joke — it's the beginning of a love story. And it's complicated.</p>\n\nhttps://www.tvmaze.com/shows/77060
+CATEGORIES:TV
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tvmaze-93812-s1@release-cal.local
+DTSTAMP:20261004T221231Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:📺 Did someone happen to mention me? — S1 premiere
+DESCRIPTION:series premiere · Netflix · Scripted\n\n\nhttps://www.tvmaze.com/shows/93812
+CATEGORIES:TV
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tvmaze-76487-s3@release-cal.local
-DTSTAMP:20260902T154907Z
+DTSTAMP:20261004T221233Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:📺 Happy's Place — S3 premiere
@@ -1080,17 +650,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tvmaze-91789-s1@release-cal.local
-DTSTAMP:20260902T154907Z
+DTSTAMP:20261004T221233Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:📺 Newlyweds — S1 premiere
-DESCRIPTION:series premiere · NBC · Scripted\n<p><b>Newlyweds</b> is a later-in-life love story about a free-spirited woman and a buttoned-up professor who marry impetuously after a whirlwind courtship.</p>\n\nhttps://www.tvmaze.com/shows/91789
+DESCRIPTION:series premiere · NBC · Scripted\n<p>A later-in-life love story about a free-spirited woman and a buttoned-up professor who marry impetuously after a whirlwind courtship.</p>\n\nhttps://www.tvmaze.com/shows/91789
 CATEGORIES:TV
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tvmaze-50701-s4@release-cal.local
-DTSTAMP:20260902T154907Z
+DTSTAMP:20261004T221233Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:📺 Lupin — S4 premiere
@@ -1099,8 +669,48 @@ CATEGORIES:TV
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tvmaze-93569-s1@release-cal.local
+DTSTAMP:20261004T221238Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:📺 Minimum Wage — S1 premiere
+DESCRIPTION:series premiere · Netflix · Scripted\n<p>An overwhelmed group of teenagers struggles to run a local pizzeria while juggling school\, a manic boss\, and minimum wage salaries. The stakes are low\, and the pressure is immense.</p>\n\nhttps://www.tvmaze.com/shows/93569
+CATEGORIES:TV
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tvmaze-93941-s1@release-cal.local
+DTSTAMP:20261004T221239Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:📺 The One About Matthew Perry — S1 premiere
+DESCRIPTION:series premiere · Netflix · Documentary\n<p>Told through intimate testimonies from close family and friends\, The One About Matthew Perry reveals the real Matthew Perry - generous\, funny\, vulnerable\, larger than life - and the battles he fought to become the man behind the icon.</p>\n\nhttps://www.tvmaze.com/shows/93941
+CATEGORIES:TV
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tvmaze-84703-s2@release-cal.local
+DTSTAMP:20261004T221243Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:📺 The Black Dagger Brotherhood — S2 premiere
+DESCRIPTION:season 2 premiere · PassionFlix · Scripted\n<p>Based on the #1 NYT bestselling series by J.R. Ward\, the league of vampire warriors known as the Black Dagger Brotherhood must fight against the Lessening Society to protect their race from extinction.</p>\n\nhttps://www.tvmaze.com/shows/84703
+CATEGORIES:TV
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tvmaze-92871-s1@release-cal.local
+DTSTAMP:20261004T221243Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:📺 Balaraw — S1 premiere
+DESCRIPTION:series premiere · Netflix · Scripted\n<p>Years after her mother vanished\, Sabina follows a mysterious clue to an uncharted island\, where she confronts hidden dark secrets within her own family.</p>\n\nhttps://www.tvmaze.com/shows/92871
+CATEGORIES:TV
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tvmaze-66811-s1@release-cal.local
-DTSTAMP:20260902T154915Z
+DTSTAMP:20261004T221245Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:📺 Nocturne — S1 premiere
@@ -1109,8 +719,38 @@ CATEGORIES:TV
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tvmaze-78665-s2@release-cal.local
+DTSTAMP:20261004T221245Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:📺 Dexter: Resurrection — S2 premiere
+DESCRIPTION:season 2 premiere · Paramount+ · Scripted\n<p>Dexter Morgan awakens from a coma and sets out for New York City\, determined to find Harrison and make things right. But when Miami Metro's Angel Batista arrives with questions\, Dexter realizes his past is catching up to him fast.</p>\n\nhttps://www.tvmaze.com/shows/78665
+CATEGORIES:TV
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tvmaze-84377-s1@release-cal.local
+DTSTAMP:20261004T221245Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:📺 Dead-End Job — S1 premiere
+DESCRIPTION:series premiere · Netflix · Scripted\n<p><b>Dead-End Job</b> follows\, a young man who takes on a seemingly perfect part-time job offering 50 times the usual hourly wage through a mysterious employment agency called Spyder Human Resource Center. However\, the job quickly becomes a nightmare as he encounters strange and\n\nhttps://www.tvmaze.com/shows/84377
+CATEGORIES:TV
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tvmaze-93881-s1@release-cal.local
+DTSTAMP:20261004T221245Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:📺 Bytet — S1 premiere
+DESCRIPTION:series premiere · Netflix · Scripted\n<p>Helene and Carl trade their home in Stockholm's archipelago for a sun-drenched villa in Sicily\, swapping lives for some weeks with Scarlett and Adam\; a couple they've never met. But as they settle into each other's houses\, unsettling details begin to surface. As secrets emerge\n\nhttps://www.tvmaze.com/shows/93881
+CATEGORIES:TV
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tvmaze-34685-s4@release-cal.local
-DTSTAMP:20260902T154918Z
+DTSTAMP:20261004T221247Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:📺 The Gilded Age — S4 premiere
@@ -1120,7 +760,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tvmaze-63498-s3@release-cal.local
-DTSTAMP:20260902T154919Z
+DTSTAMP:20261004T221249Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:📺 St. Denis Medical — S3 premiere
@@ -1130,7 +770,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tvmaze-84605-s2@release-cal.local
-DTSTAMP:20260902T154919Z
+DTSTAMP:20261004T221249Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:📺 The Fall and Rise of Reggie Dinkins — S2 premiere
@@ -1139,8 +779,18 @@ CATEGORIES:TV
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tvmaze-90425-s1@release-cal.local
+DTSTAMP:20261004T221250Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:📺 Bass X Machina — S1 premiere
+DESCRIPTION:series premiere · Netflix · Animation\n<p>In a lawless Steampunk West overrun by brutal outlaws\, machines\, and supernatural terrors\, a father is forced to become judge\, jury\, and executioner—knowing that every act of justice meant to protect his family may ultimately cost him the very people he's fighting to save.</p>\n\nhttps://www.tvmaze.com/shows/90425
+CATEGORIES:TV
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tvmaze-78326-s1@release-cal.local
-DTSTAMP:20260902T154921Z
+DTSTAMP:20261004T221251Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:📺 The Greatest — S1 premiere
@@ -1150,7 +800,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tvmaze-82227-s2@release-cal.local
-DTSTAMP:20260902T154921Z
+DTSTAMP:20261004T221251Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:📺 Stick — S2 premiere
@@ -1160,17 +810,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tvmaze-90035-s1@release-cal.local
-DTSTAMP:20260902T154921Z
+DTSTAMP:20261004T221251Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:📺 The Remarried Empress — S1 premiere
-DESCRIPTION:series premiere · Disney+ · Scripted\n<p>After a shocking divorce upends her life\, an empress takes control of her future by forging a new marriage that reshapes power\, loyalty\, and love across rival empires.\n</p><p> </p>\n\nhttps://www.tvmaze.com/shows/90035
+DESCRIPTION:series premiere · Disney+ · Scripted\n<p>Beloved Empress Navier of the Eastern Empire has built and led a prosperous land alongside her husband\, Emperor Sovieshu. One day her world is shattered when the emperor brings Rashta\, a runaway slave\, back to the palace with the intention of making her his mistress. But even \n\nhttps://www.tvmaze.com/shows/90035
+CATEGORIES:TV
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tvmaze-79867-s3@release-cal.local
+DTSTAMP:20261004T221253Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:📺 Mistletoe Murders — S3 premiere
+DESCRIPTION:season 3 premiere · Hallmark Channel · Scripted\n<p>Emily Lane is a good-natured Christmas shop owner with a secret past. When local murders begin to pop up in Fletcher's Grove\, Emily can't help but to use her unique talents from her past life to help solve murders that affect people in her new life. She crosses paths with Dete\n\nhttps://www.tvmaze.com/shows/79867
 CATEGORIES:TV
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tvmaze-68407-s2@release-cal.local
-DTSTAMP:20260902T154922Z
+DTSTAMP:20261004T221253Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:📺 Black Doves — S2 premiere
@@ -1179,8 +839,28 @@ CATEGORIES:TV
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tvmaze-92449-s1@release-cal.local
+DTSTAMP:20261004T221254Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:📺 Campus Drivers — S1 premiere
+DESCRIPTION:series premiere · Prime Video · Scripted\n\n\nhttps://www.tvmaze.com/shows/92449
+CATEGORIES:TV
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tvmaze-77778-s2@release-cal.local
+DTSTAMP:20261004T221257Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:📺 The Institute — S2 premiere
+DESCRIPTION:season 2 premiere · MGM+ · Scripted\n<p>When 12-year-old genius Luke Ellis is kidnapped\, he awakens at The Institute\, a facility full of children who all got there the same way he did\, and who are all possessed of unusual abilities. In a nearby town\, haunted former police officer Tim Jamieson has come looking to sta\n\nhttps://www.tvmaze.com/shows/77778
+CATEGORIES:TV
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tvmaze-33352-s3@release-cal.local
-DTSTAMP:20260902T154929Z
+DTSTAMP:20261004T221301Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:📺 The Lord of the Rings: The Rings of Power — S3 premiere
@@ -1190,7 +870,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tvmaze-87480-s1@release-cal.local
-DTSTAMP:20260902T154929Z
+DTSTAMP:20261004T221301Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:📺 The Body — S1 premiere
@@ -1200,7 +880,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tvmaze-84261-s1@release-cal.local
-DTSTAMP:20260902T154931Z
+DTSTAMP:20261004T221303Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:📺 12 12 12 — S1 premiere
@@ -1210,7 +890,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tvmaze-47119-s6@release-cal.local
-DTSTAMP:20260902T154933Z
+DTSTAMP:20261004T221306Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:📺 The Chosen — S6 premiere
@@ -1220,7 +900,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tvmaze-75517-s1@release-cal.local
-DTSTAMP:20260902T154937Z
+DTSTAMP:20261004T221309Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:📺 Vienna Game — S1 premiere
@@ -1230,7 +910,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tvmaze-85058-s1@release-cal.local
-DTSTAMP:20260902T154938Z
+DTSTAMP:20261004T221310Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:📺 The Altruists — S1 premiere
@@ -1240,7 +920,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tvmaze-36672-s4@release-cal.local
-DTSTAMP:20260902T154939Z
+DTSTAMP:20261004T221312Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:📺 Yellowjackets — S4 premiere
@@ -1250,7 +930,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tvmaze-48108-s3@release-cal.local
-DTSTAMP:20260902T154939Z
+DTSTAMP:20261004T221312Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:📺 Percy Jackson and the Olympians — S3 premiere
@@ -1259,8 +939,38 @@ CATEGORIES:TV
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tvmaze-89972-s1@release-cal.local
+DTSTAMP:20261004T221312Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:📺 Road — S1 premiere
+DESCRIPTION:series premiere · Netflix · Scripted\n<p>The original work is the Korean-Japanese co-produced comic "Blue Road." The original story follows Korean detective Kang Cheong-do and Japanese detective Ino Se as they investigate bizarre murders that occurred in both Korea and Japan.</p>\n\nhttps://www.tvmaze.com/shows/89972
+CATEGORIES:TV
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tvmaze-94538-s1@release-cal.local
+DTSTAMP:20261004T221312Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:📺 Perfectos mentirosos — S1 premiere
+DESCRIPTION:series premiere · Prime Video · Scripted\n<p>Jude Derry arrives at this exclusive university with a hidden mission: to infiltrate the circle of the Cash brothers and uncover the truth about her brother's death. The three heirs to the family empire dominate Tagus with a magnetism that no one can resist. There's Aegan\, the\n\nhttps://www.tvmaze.com/shows/94538
+CATEGORIES:TV
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tvmaze-6544-s57@release-cal.local
+DTSTAMP:20261004T221315Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:📺 Sesame Street — S57 premiere
+DESCRIPTION:season 57 premiere · Netflix · Scripted\n<p>Sunny days are here! This freshly reimagined "<b>Sesame Street</b>" series features characters you love\, fan-favorite segments — and new ways to play.</p>\n\nhttps://www.tvmaze.com/shows/6544
+CATEGORIES:TV
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tvmaze-60458-s1@release-cal.local
-DTSTAMP:20260902T154945Z
+DTSTAMP:20261004T221318Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:📺 Blade Runner 2099 — S1 premiere
@@ -1270,7 +980,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tvmaze-72427-s2@release-cal.local
-DTSTAMP:20260902T154946Z
+DTSTAMP:20261004T221319Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:📺 The Hunting Wives — S2 premiere
@@ -1280,17 +990,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tvmaze-92747-s1@release-cal.local
-DTSTAMP:20260902T154946Z
+DTSTAMP:20261004T221319Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:📺 Fool Night — S1 premiere
-DESCRIPTION:series premiere · Netflix · Animation\n\n\nhttps://www.tvmaze.com/shows/92747
+DESCRIPTION:series premiere · Netflix · Animation\n<p>A young man\, Toshiro Kamiya\, lives in poverty and works hard to pay taxes\, cover living expenses\, and afford medication for his mentally ill mother.</p><p>However\, the cruel reality around him gradually eats away at his hope.</p><p>Living... there isn't a single thing fun abou\n\nhttps://www.tvmaze.com/shows/92747
 CATEGORIES:TV
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tvmaze-56778-s2@release-cal.local
-DTSTAMP:20260902T154952Z
+DTSTAMP:20261004T221327Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:📺 Bad Monkey — S2 premiere
@@ -1299,8 +1009,58 @@ CATEGORIES:TV
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tvmaze-84008-s1@release-cal.local
+DTSTAMP:20261004T221328Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:📺 Pride and Prejudice — S1 premiere
+DESCRIPTION:series premiere · Netflix · Scripted\n<p>The adaptation will hew closely to the original text\, reuniting existing fans with the timeless novel\, while also introducing a new generation to Austen.</p>\n\nhttps://www.tvmaze.com/shows/84008
+CATEGORIES:TV
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tvmaze-19678-s3@release-cal.local
+DTSTAMP:20261004T221329Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:📺 P-Valley — S3 premiere
+DESCRIPTION:season 3 premiere · STARZ · Scripted\n<p><b>P-Valley</b> is a scripted one-hour drama that takes an unflinching and unapologetic look at the lives of pole dancers working down in the Dirty Delta. Set in an infamous Mississippi "shake junt" called The Pynk\, <i>P-Valley</i> is an intimate window to the unexplored south\n\nhttps://www.tvmaze.com/shows/19678
+CATEGORIES:TV
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tvmaze-63973-s3@release-cal.local
+DTSTAMP:20261004T221335Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:📺 Maxton Hall — S3 premiere
+DESCRIPTION:season 3 premiere · Prime Video · Scripted\n<p>When Ruby unwillingly witnesses an explosive secret at Maxton Hall Private School\, arrogant millionaire heir James Beaufort is forced to confront the quick-witted scholarship student\, much to his chagrin: He is determined to silence Ruby. Their passionate exchange of blows sur\n\nhttps://www.tvmaze.com/shows/63973
+CATEGORIES:TV
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tvmaze-79407-s1@release-cal.local
+DTSTAMP:20261004T221336Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:📺 The Murder of JonBenét Ramsey — S1 premiere
+DESCRIPTION:series premiere · Netflix · Scripted\n<p><b>The Murder of JonBenét Ramsey</b> explores the tragic unsolved murder of six-year-old beauty queen JonBenét Ramsey. It follows the Ramsey family\, before and after the tragedy as they go through the painful loss of a child while facing intense public scrutiny caused by a med\n\nhttps://www.tvmaze.com/shows/79407
+CATEGORIES:TV
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tvmaze-84274-s1@release-cal.local
+DTSTAMP:20261004T221344Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:📺 Unaccustomed Earth — S1 premiere
+DESCRIPTION:series premiere · Netflix · Scripted\n<p>Inspired by the internationally beloved bestseller of the same name\, <b>Unaccustomed Earth</b> is an epic\, soapy drama about a tight-knit immigrant community navigating love\, desire\, and belonging. When a star-crossed romance between a devoted wife and her long-lost love comes\n\nhttps://www.tvmaze.com/shows/84274
+CATEGORIES:TV
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tvmaze-41632-s6@release-cal.local
-DTSTAMP:20260902T155017Z
+DTSTAMP:20261004T221352Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
 SUMMARY:📺 Emily in Paris — S6 premiere
@@ -1309,8 +1069,48 @@ CATEGORIES:TV
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tvmaze-3524-s41@release-cal.local
+DTSTAMP:20261004T221358Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:📺 American Masters — S41 premiere
+DESCRIPTION:season 41 premiere · PBS · Documentary\n<p>Now in its 30th year\, <b>American Masters</b> has produced an exceptional library of more than 160 television programs\, bringing unique originality and perspective to exploring the lives and illuminating the creative journeys of our most enduring writers\, musicians\, visual and\n\nhttps://www.tvmaze.com/shows/3524
+CATEGORIES:TV
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tvmaze-75360-s1@release-cal.local
+DTSTAMP:20261004T221401Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:📺 The Twin — S1 premiere
+DESCRIPTION:series premiere · Netflix · Scripted\n<p>Suffocating in a loveless marriage to Adam\, Nicola's life takes a dramatic turn when Adam's long-estranged identical twin brother Lee comes crashing back into her life\, and their tangled romantic past threatens to destroy the present. A split-second decision and a terrible acc\n\nhttps://www.tvmaze.com/shows/75360
+CATEGORIES:TV
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tvmaze-84521-s1@release-cal.local
+DTSTAMP:20261004T221407Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:📺 The Wanted Man — S1 premiere
+DESCRIPTION:series premiere · Apple TV · Scripted\n<p><b>The Wanted Man</b> charts the rise and fall of Felix Carmichael\, the elusive and powerful head of notorious British crime syndicate ‘The Capital.' Untouchable for twenty years\, Carmichael is finally apprehended\, but while he's held in the infamous Staplehurst prison\, it bec\n\nhttps://www.tvmaze.com/shows/84521
+CATEGORIES:TV
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tvmaze-86669-s1@release-cal.local
+DTSTAMP:20261004T221409Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:📺 Sekiro: No Defeat — S1 premiere
+DESCRIPTION:series premiere · Crunchyroll · Animation\n\n\nhttps://www.tvmaze.com/shows/86669
+CATEGORIES:TV
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tvmaze-3211-s13@release-cal.local
-DTSTAMP:20260902T155038Z
+DTSTAMP:20261004T221413Z
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
 SUMMARY:📺 Finding Your Roots with Henry Louis Gates Jr. — S13 premiere
@@ -1320,7 +1120,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tvmaze-52343-s2@release-cal.local
-DTSTAMP:20260902T155047Z
+DTSTAMP:20261004T221422Z
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
 SUMMARY:📺 Ahsoka — S2 premiere
@@ -1330,11 +1130,31 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tvmaze-75029-s1@release-cal.local
-DTSTAMP:20260902T155049Z
+DTSTAMP:20261004T221424Z
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
 SUMMARY:📺 Neuromancer — S1 premiere
 DESCRIPTION:series premiere · Apple TV · Scripted\n<p><b>Neuromancer </b>follows a damaged\, top-rung super-hacker named Case who is thrust into a web of digital espionage and high stakes crime with his partner Molly\, a razor-girl assassin with mirrored eyes\, aiming to pull a heist on a corporate dynasty with untold secrets.</p>\n\nhttps://www.tvmaze.com/shows/75029
+CATEGORIES:TV
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tvmaze-91117-s1@release-cal.local
+DTSTAMP:20261004T221445Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:📺 Barbershop — S1 premiere
+DESCRIPTION:series premiere · Prime Video · Scripted\n<p>Travis "Trav" Porter endeavors to follow in the footsteps of his grandfather\, a legendary barber\, at the iconic Calvin's barbershop in Chicago. And while the barbers are new\, the shop remains just as lively\, the customers just as argumentative\, and the fades are still the dope\n\nhttps://www.tvmaze.com/shows/91117
+CATEGORIES:TV
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tvmaze-84-s25@release-cal.local
+DTSTAMP:20261004T221457Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:📺 Family Guy — S25 premiere
+DESCRIPTION:season 25 premiere · FOX · Animation\n<p><b>Family Guy</b> follows Peter Griffin the endearingly ignorant dad\, and his hilariously offbeat family of middle-class New Englanders in Quahog\, RI. Lois is Peter's wife\, a stay-at-home mom with no patience for her family's antics. Then there are their kids: 18-year-old Meg \n\nhttps://www.tvmaze.com/shows/84
 CATEGORIES:TV
 TRANSP:TRANSPARENT
 END:VEVENT
