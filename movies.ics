@@ -10,127 +10,127 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:tmdb-1003596@release-cal.local
-DTSTAMP:20261026T101701Z
+DTSTAMP:20261027T101701Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:🎬 Avengers: Doomsday
-DESCRIPTION:Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.\n\nTMDB popularity 418 · https://www.themoviedb.org/movie/1003596
+DESCRIPTION:Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.\n\nTMDB popularity 146 · https://www.themoviedb.org/movie/1003596
 CATEGORIES:MOVIE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1294189@release-cal.local
-DTSTAMP:20261026T101701Z
+DTSTAMP:20261027T101701Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:🎬 The Mongoose
-DESCRIPTION:A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase\, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.\n\nTMDB popularity 135 · https://www.themoviedb.org/movie/1294189
-CATEGORIES:MOVIE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1170608@release-cal.local
-DTSTAMP:20261026T101701Z
-DTSTART;VALUE=DATE:20261218
-DTEND;VALUE=DATE:20261219
-SUMMARY:🎬 Dune: Part Three
-DESCRIPTION:Nearly two decades after he seized control of the Imperium\, Paul Atreides is now a ruthless Emperor\, and must face the consequences of his reign as old allies return\, terrifying new threats emerge\, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and th\n\nTMDB popularity 75 · https://www.themoviedb.org/movie/1170608
+DESCRIPTION:A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase\, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.\n\nTMDB popularity 126 · https://www.themoviedb.org/movie/1294189
 CATEGORIES:MOVIE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1657630@release-cal.local
-DTSTAMP:20261026T101701Z
+DTSTAMP:20261027T101701Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:🎬 The Awakening
-DESCRIPTION:An elite military unit on a mission in the South American jungle encounters a deadly supernatural force revealing an ancient presence that continues to claim anyone who dares enter its domain.\n\nTMDB popularity 114 · https://www.themoviedb.org/movie/1657630
+DESCRIPTION:An elite military unit on a mission in the South American jungle encounters a deadly supernatural force revealing an ancient presence that continues to claim anyone who dares enter its domain.\n\nTMDB popularity 128 · https://www.themoviedb.org/movie/1657630
 CATEGORIES:MOVIE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1147572@release-cal.local
-DTSTAMP:20261026T101701Z
-DTSTART;VALUE=DATE:20270212
-DTEND;VALUE=DATE:20270213
-SUMMARY:🎬 Narnia: The Magician's Nephew
-DESCRIPTION:Two children discover a wood full of pools leading to other worlds. One takes them to a dead city beneath a dying sun\, where they wake a queen who exterminated its population and accidentally bring her back to London.\n\nTMDB popularity 41 · https://www.themoviedb.org/movie/1147572
+UID:tmdb-1170608@release-cal.local
+DTSTAMP:20261027T101701Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:🎬 Dune: Part Three
+DESCRIPTION:Nearly two decades after he seized control of the Imperium\, Paul Atreides is now a ruthless Emperor\, and must face the consequences of his reign as old allies return\, terrifying new threats emerge\, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and th\n\nTMDB popularity 51 · https://www.themoviedb.org/movie/1170608
 CATEGORIES:MOVIE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1381071@release-cal.local
-DTSTAMP:20261026T101701Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
+DTSTAMP:20261027T101701Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
 SUMMARY:🎬 Godzilla Minus Zero
-DESCRIPTION:War reduced Japan to zero\, and Godzilla plunged it into minus. Two years have passed since then\, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace\, a new threat strikes\, crus\n\nTMDB popularity 41 · https://www.themoviedb.org/movie/1381071
+DESCRIPTION:War reduced Japan to zero\, and Godzilla plunged it into minus. Two years have passed since then\, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace\, a new threat strikes\, crus\n\nTMDB popularity 24 · https://www.themoviedb.org/movie/1381071
 CATEGORIES:MOVIE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-891621@release-cal.local
-DTSTAMP:20261026T101701Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:🎬 Wild Horse Nine
-DESCRIPTION:Shortly before the 1973 Chilean coup\, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief\, MJ. Amongst the Island's iconic statues\, and as the longtime partners wrestle with their dark pasts and present conspiracies\, Chris's newfound bond \n\nTMDB popularity 25 · https://www.themoviedb.org/movie/891621
-CATEGORIES:MOVIE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1538497@release-cal.local
-DTSTAMP:20261026T101701Z
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:🎬 Hexed
-DESCRIPTION:An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which\, once unleashed\, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother\, Alice\, they uncover \n\nTMDB popularity 25 · https://www.themoviedb.org/movie/1538497
+UID:tmdb-1147572@release-cal.local
+DTSTAMP:20261027T101701Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:🎬 Narnia: The Magician's Nephew
+DESCRIPTION:Two children discover a wood full of pools leading to other worlds. One takes them to a dead city beneath a dying sun\, where they wake a queen who exterminated its population and accidentally bring her back to London.\n\nTMDB popularity 18 · https://www.themoviedb.org/movie/1147572
 CATEGORIES:MOVIE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1562642@release-cal.local
-DTSTAMP:20261026T101701Z
+DTSTAMP:20261027T101701Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:🎬 Ghost Soldier
-DESCRIPTION:Henry “Fitz” Fitzgerald has spent years living quietly off the grid\, hiding from a past few people know anything about. But when a powerful foreign corporation moves into his hometown to seize his neighbors’ land for a massive payday\, Fitz is forced to reveal who he really is: a \n\nTMDB popularity 27 · https://www.themoviedb.org/movie/1562642
+DESCRIPTION:Henry “Fitz” Fitzgerald has spent years living quietly off the grid\, hiding from a past few people know anything about. But when a powerful foreign corporation moves into his hometown to seize his neighbors’ land for a massive payday\, Fitz is forced to reveal who he really is: a \n\nTMDB popularity 23 · https://www.themoviedb.org/movie/1562642
+CATEGORIES:MOVIE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb-1538497@release-cal.local
+DTSTAMP:20261027T101701Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:🎬 Hexed
+DESCRIPTION:An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which\, once unleashed\, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother\, Alice\, they uncover \n\nTMDB popularity 24 · https://www.themoviedb.org/movie/1538497
+CATEGORIES:MOVIE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb-891621@release-cal.local
+DTSTAMP:20261027T101701Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:🎬 Wild Horse Nine
+DESCRIPTION:Shortly before the 1973 Chilean coup\, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief\, MJ. Amongst the Island's iconic statues\, and as the longtime partners wrestle with their dark pasts and present conspiracies\, Chris's newfound bond \n\nTMDB popularity 18 · https://www.themoviedb.org/movie/891621
 CATEGORIES:MOVIE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-656908@release-cal.local
-DTSTAMP:20261026T101701Z
+DTSTAMP:20261027T101701Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:🎬 Ramayana: Rise of a Legend
-DESCRIPTION:An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love\, duty and destiny sets the stage for greater challenges ahead.\n\nTMDB popularity 25 · https://www.themoviedb.org/movie/656908
+DESCRIPTION:An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love\, duty and destiny sets the stage for greater challenges ahead.\n\nTMDB popularity 21 · https://www.themoviedb.org/movie/656908
 CATEGORIES:MOVIE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1300968@release-cal.local
-DTSTAMP:20261026T101701Z
+DTSTAMP:20261027T101701Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:🎬 The Hunger Games: Sunrise on the Reaping
-DESCRIPTION:Return to the world of Panem 24 years before the events of The Hunger Games\, starting on the morning of the reaping of the 50th Hunger Games\, also known as the Second Quarter Quell.\n\nTMDB popularity 19 · https://www.themoviedb.org/movie/1300968
+DESCRIPTION:Return to the world of Panem 24 years before the events of The Hunger Games\, starting on the morning of the reaping of the 50th Hunger Games\, also known as the Second Quarter Quell.\n\nTMDB popularity 21 · https://www.themoviedb.org/movie/1300968
 CATEGORIES:MOVIE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1391239@release-cal.local
-DTSTAMP:20261026T101701Z
+DTSTAMP:20261027T101701Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:🎬 The Debut
-DESCRIPTION:When Mona Friedman is cast in a bit part at a small community theater\, she transforms from a shy\, unassuming housewife into a zealous method actor willing to do anything to protect the artistic integrity of her marginal role—even if it means waging war against the show’s domineer\n\nTMDB popularity 18 · https://www.themoviedb.org/movie/1391239
+DESCRIPTION:When Mona Friedman is cast in a bit part at a small community theater\, she transforms from a shy\, unassuming housewife into a zealous method actor willing to do anything to protect the artistic integrity of her marginal role—even if it means waging war against the show’s domineer\n\nTMDB popularity 12 · https://www.themoviedb.org/movie/1391239
 CATEGORIES:MOVIE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1567605@release-cal.local
-DTSTAMP:20261026T101701Z
+DTSTAMP:20261027T101701Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:🎬 Ebenezer
@@ -140,17 +140,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1117898@release-cal.local
-DTSTAMP:20261026T101701Z
+DTSTAMP:20261027T101701Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:🎬 The Cat in the Hat
-DESCRIPTION:Assigned his toughest mission yet\, the Cat must cheer up siblings Gabby and Sebastian as they adjust to life in a new town. Known for pushing boundaries\, this agent of chaos must prove himself or risk losing his magical hat forever.\n\nTMDB popularity 16 · https://www.themoviedb.org/movie/1117898
+DESCRIPTION:Assigned his toughest mission yet\, the Cat must cheer up siblings Gabby and Sebastian as they adjust to life in a new town. Known for pushing boundaries\, this agent of chaos must prove himself or risk losing his magical hat forever.\n\nTMDB popularity 17 · https://www.themoviedb.org/movie/1117898
 CATEGORIES:MOVIE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1596275@release-cal.local
-DTSTAMP:20261026T101701Z
+DTSTAMP:20261027T101701Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:🎬 Drive - The Pretenders
@@ -160,47 +160,37 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1260649@release-cal.local
-DTSTAMP:20261026T101701Z
+DTSTAMP:20261027T101701Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:🎬 Jumanji: Open World
-DESCRIPTION:Our heroes have escaped the ever-changing jungles of Jumanji before\, but this time the game comes to us - as Jumanji breaks free of its console\, unleashing its chaos into our world.\n\nTMDB popularity 13 · https://www.themoviedb.org/movie/1260649
-CATEGORIES:MOVIE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1505644@release-cal.local
-DTSTAMP:20261026T101701Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:🎬 ENE Repeat
-DESCRIPTION:A close-knit group of friends embark on another unforgettable journey\, where old memories\, new adventures\, and unexpected twists test their friendship.\n\nTMDB popularity 12 · https://www.themoviedb.org/movie/1505644
+DESCRIPTION:Our heroes have escaped the ever-changing jungles of Jumanji before\, but this time the game comes to us - as Jumanji breaks free of its console\, unleashing its chaos into our world.\n\nTMDB popularity 12 · https://www.themoviedb.org/movie/1260649
 CATEGORIES:MOVIE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1384758@release-cal.local
-DTSTAMP:20261026T101701Z
+DTSTAMP:20261027T101701Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
 SUMMARY:🎬 Ice Age: Boiling Point
-DESCRIPTION:A dinosaur-and-lava-filled madcap adventure takes Manny\, Sid\, Diego\, Ellie\, Buck\, acorn-obsessed Scrat – this time joined by Baby Scrat and the enormous Jurassic Scrat – and the rest of the herd to visit never before-seen corners of the treacherous Lost World.\n\nTMDB popularity 12 · https://www.themoviedb.org/movie/1384758
+DESCRIPTION:A dinosaur-and-lava-filled madcap adventure takes Manny\, Sid\, Diego\, Ellie\, Buck\, acorn-obsessed Scrat – this time joined by Baby Scrat and the enormous Jurassic Scrat – and the rest of the herd to visit never before-seen corners of the treacherous Lost World.\n\nTMDB popularity 11 · https://www.themoviedb.org/movie/1384758
 CATEGORIES:MOVIE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1595124@release-cal.local
-DTSTAMP:20261026T101701Z
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-SUMMARY:🎬 Steps
-DESCRIPTION:Think you know Cinderella's 'evil' stepsisters? Think again! When misunderstood Lilith is blamed for hijacking the Royal Ball with a stolen magic wand\, she accidentally turns her sister Margot into a frog and leaves the kingdom in the hands of a prince-obsessed mean girl. Now Lil\n\nTMDB popularity 11 · https://www.themoviedb.org/movie/1595124
+UID:tmdb-1505644@release-cal.local
+DTSTAMP:20261027T101701Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:🎬 ENE Repeat
+DESCRIPTION:A close-knit group of friends embark on another unforgettable journey\, where old memories\, new adventures\, and unexpected twists test their friendship.\n\nTMDB popularity 11 · https://www.themoviedb.org/movie/1505644
 CATEGORIES:MOVIE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1300926@release-cal.local
-DTSTAMP:20261026T101701Z
+DTSTAMP:20261027T101701Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:🎬 The Angry Birds Movie 3
@@ -209,18 +199,18 @@ CATEGORIES:MOVIE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1440769@release-cal.local
-DTSTAMP:20261026T101701Z
-DTSTART;VALUE=DATE:20270115
-DTEND;VALUE=DATE:20270116
-SUMMARY:🎬 The Beekeeper 2
-DESCRIPTION:Pulled back into the fight when the Beekeeper organization goes rogue and sets its sights on controlling the government\, Clay must take on the very group that made him.\n\nTMDB popularity 10 · https://www.themoviedb.org/movie/1440769
+UID:tmdb-1595124@release-cal.local
+DTSTAMP:20261027T101701Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:🎬 Steps
+DESCRIPTION:Think you know Cinderella's 'evil' stepsisters? Think again! When misunderstood Lilith is blamed for hijacking the Royal Ball with a stolen magic wand\, she accidentally turns her sister Margot into a frog and leaves the kingdom in the hands of a prince-obsessed mean girl. Now Lil\n\nTMDB popularity 11 · https://www.themoviedb.org/movie/1595124
 CATEGORIES:MOVIE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1497464@release-cal.local
-DTSTAMP:20261026T101701Z
+DTSTAMP:20261027T101701Z
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270304
 SUMMARY:🎬 Gatto
@@ -229,18 +219,8 @@ CATEGORIES:MOVIE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1401586@release-cal.local
-DTSTAMP:20261026T101701Z
-DTSTART;VALUE=DATE:20270311
-DTEND;VALUE=DATE:20270312
-SUMMARY:🎬 Sonic the Hedgehog 4
-DESCRIPTION:Sonic the Hedgehog\, joined by a new hero named Amy\, faces a new technological nemesis known as Metal Sonic.\n\nTMDB popularity 10 · https://www.themoviedb.org/movie/1401586
-CATEGORIES:MOVIE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb-1585239@release-cal.local
-DTSTAMP:20261026T101701Z
+DTSTAMP:20261027T101701Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:🎬 Club Kid
@@ -249,48 +229,28 @@ CATEGORIES:MOVIE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1791529@release-cal.local
-DTSTAMP:20261026T101701Z
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261028
-SUMMARY:🎬 Hotel Utopia
-DESCRIPTION:In an abandoned hotel deep in the Bulgarian mountains\, digital nomads search for a new home\, investors are hoping for profit\, and the last villager revels in days gone by – all driven by the longing for #happyland in a place shaped by a socialist past.\n\nTMDB popularity 8 · https://www.themoviedb.org/movie/1791529
+UID:tmdb-1440769@release-cal.local
+DTSTAMP:20261027T101701Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:🎬 The Beekeeper 2
+DESCRIPTION:Pulled back into the fight when the Beekeeper organization goes rogue and sets its sights on controlling the government\, Clay must take on the very group that made him.\n\nTMDB popularity 9 · https://www.themoviedb.org/movie/1440769
 CATEGORIES:MOVIE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1629064@release-cal.local
-DTSTAMP:20261026T101701Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:🎬 Campeón Gabacho
-DESCRIPTION:Liborio\, an endearing and mischievous young migrant whose only talent is taking punches. He crosses the Rio Grande to escape a harsh reality in Mexico\, looking for a better life in the United States\, and settles in a Latino barrio in New York City. Through his fists\, his love\, an\n\nTMDB popularity 9 · https://www.themoviedb.org/movie/1629064
-CATEGORIES:MOVIE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1457866@release-cal.local
-DTSTAMP:20261026T101701Z
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:🎬 THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH
-DESCRIPTION:Eight years after the events of Once Upon a Time in... Hollywood\, Cliff Booth returns to a changing Los Angeles. Now working as a fixer in the shadows of the Hollywood studio system\, Cliff finds himself entangled in a dangerous web of secrets\, crimes and betrayals that will test \n\nTMDB popularity 9 · https://www.themoviedb.org/movie/1457866
-CATEGORIES:MOVIE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1437511@release-cal.local
-DTSTAMP:20261026T101701Z
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-SUMMARY:🎬 How to Rob a Bank
-DESCRIPTION:A crew of social media-savvy bank robbers broadcasts their daring heists\, unaware that their growing viral fame has put them in the crosshairs of a veteran FBI agent and a brilliant software engineer. Despite the unlikely duo closing in\, the crime ring pushes past their limits\, p\n\nTMDB popularity 9 · https://www.themoviedb.org/movie/1437511
+UID:tmdb-1401586@release-cal.local
+DTSTAMP:20261027T101701Z
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270312
+SUMMARY:🎬 Sonic the Hedgehog 4
+DESCRIPTION:Sonic the Hedgehog\, joined by a new hero named Amy\, faces a new technological nemesis known as Metal Sonic.\n\nTMDB popularity 10 · https://www.themoviedb.org/movie/1401586
 CATEGORIES:MOVIE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1286656@release-cal.local
-DTSTAMP:20261026T101701Z
+DTSTAMP:20261027T101701Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:🎬 I Play Rocky
@@ -299,18 +259,58 @@ CATEGORIES:MOVIE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1131943@release-cal.local
-DTSTAMP:20261026T101701Z
+UID:tmdb-1629064@release-cal.local
+DTSTAMP:20261027T101701Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:🎬 Campeón Gabacho
+DESCRIPTION:Liborio\, an endearing and mischievous young migrant whose only talent is taking punches. He crosses the Rio Grande to escape a harsh reality in Mexico\, looking for a better life in the United States\, and settles in a Latino barrio in New York City. Through his fists\, his love\, an\n\nTMDB popularity 8 · https://www.themoviedb.org/movie/1629064
+CATEGORIES:MOVIE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb-1437511@release-cal.local
+DTSTAMP:20261027T101701Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-SUMMARY:🎬 Madden
-DESCRIPTION:Chronicles John Madden's incredible journey alongside best friend and true original Al Davis—from a Super Bowl-winning partnership with the Raiders\, to becoming football’s most recognizable voice\, to building the worldwide Madden NFL video game.\n\nTMDB popularity 8 · https://www.themoviedb.org/movie/1131943
+SUMMARY:🎬 How to Rob a Bank
+DESCRIPTION:A crew of social media-savvy bank robbers broadcasts their daring heists\, unaware that their growing viral fame has put them in the crosshairs of a veteran FBI agent and a brilliant software engineer. Despite the unlikely duo closing in\, the crime ring pushes past their limits\, p\n\nTMDB popularity 9 · https://www.themoviedb.org/movie/1437511
+CATEGORIES:MOVIE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb-1798903@release-cal.local
+DTSTAMP:20261027T101701Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:🎬 KILL/SAVE
+DESCRIPTION:In a locked-down megacity where reality is optional\, a lonely programmer risks his mind to rescue his girlfriend from a virtual prison — only to face a truth that challenges the very meaning of salvation and free will.\n\nTMDB popularity 8 · https://www.themoviedb.org/movie/1798903
+CATEGORIES:MOVIE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb-1457866@release-cal.local
+DTSTAMP:20261027T101701Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:🎬 THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH
+DESCRIPTION:Eight years after the events of Once Upon a Time in... Hollywood\, Cliff Booth returns to a changing Los Angeles. Now working as a fixer in the shadows of the Hollywood studio system\, Cliff finds himself entangled in a dangerous web of secrets\, crimes and betrayals that will test \n\nTMDB popularity 8 · https://www.themoviedb.org/movie/1457866
+CATEGORIES:MOVIE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb-1400336@release-cal.local
+DTSTAMP:20261027T101701Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:🎬 Focker-in-Law
+DESCRIPTION:Henry\, son of Greg and Pam Focker\, faces family chaos when he decides to marry a strong-willed woman who appears to be his complete mismatch.\n\nTMDB popularity 8 · https://www.themoviedb.org/movie/1400336
 CATEGORIES:MOVIE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1425859@release-cal.local
-DTSTAMP:20261026T101701Z
+DTSTAMP:20261027T101701Z
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
 SUMMARY:🎬 Remain
@@ -319,18 +319,28 @@ CATEGORIES:MOVIE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1798903@release-cal.local
-DTSTAMP:20261026T101701Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-SUMMARY:🎬 KILL/SAVE
-DESCRIPTION:In a locked-down megacity where reality is optional\, a lonely programmer risks his mind to rescue his girlfriend from a virtual prison — only to face a truth that challenges the very meaning of salvation and free will.\n\nTMDB popularity 9 · https://www.themoviedb.org/movie/1798903
+UID:tmdb-1131943@release-cal.local
+DTSTAMP:20261027T101701Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:🎬 Madden
+DESCRIPTION:Chronicles John Madden's incredible journey alongside best friend and true original Al Davis—from a Super Bowl-winning partnership with the Raiders\, to becoming football’s most recognizable voice\, to building the worldwide Madden NFL video game.\n\nTMDB popularity 8 · https://www.themoviedb.org/movie/1131943
+CATEGORIES:MOVIE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb-1791529@release-cal.local
+DTSTAMP:20261027T101701Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:🎬 Hotel Utopia
+DESCRIPTION:In an abandoned hotel deep in the Bulgarian mountains\, digital nomads search for a new home\, investors are hoping for profit\, and the last villager revels in days gone by – all driven by the longing for #happyland in a place shaped by a socialist past.\n\nTMDB popularity 7 · https://www.themoviedb.org/movie/1791529
 CATEGORIES:MOVIE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1316999@release-cal.local
-DTSTAMP:20261026T101701Z
+DTSTAMP:20261027T101701Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:🎬 Tangles
@@ -339,58 +349,38 @@ CATEGORIES:MOVIE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1440157@release-cal.local
-DTSTAMP:20261026T101701Z
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261029
-SUMMARY:🎬 My Duchess
-DESCRIPTION:Telling the story of the final years of the woman who married King Edward VIII and broke up the monarchy.\n\nTMDB popularity 7 · https://www.themoviedb.org/movie/1440157
-CATEGORIES:MOVIE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1400336@release-cal.local
-DTSTAMP:20261026T101701Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-SUMMARY:🎬 Focker-in-Law
-DESCRIPTION:Henry\, son of Greg and Pam Focker\, faces family chaos when he decides to marry a strong-willed woman who appears to be his complete mismatch.\n\nTMDB popularity 9 · https://www.themoviedb.org/movie/1400336
-CATEGORIES:MOVIE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1794955@release-cal.local
-DTSTAMP:20261026T101701Z
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261105
-SUMMARY:🎬 Small Spaces
-DESCRIPTION:When an eccentric stranger promises to cure his claustrophobia\, a sceptical man agrees to her treatment\, only to discover that escaping his fear may cost him far more than living with it.\n\nTMDB popularity 7 · https://www.themoviedb.org/movie/1794955
-CATEGORIES:MOVIE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1788052@release-cal.local
-DTSTAMP:20261026T101701Z
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261111
-SUMMARY:🎬 First\, Do No Harm
-DESCRIPTION:Christian Polish gynecologist Alicja is visited by her old friend asking her to terminate her pregnancy. She has to make a difficult decision if she is going to obey her faith and laws or help her friend.\n\nTMDB popularity 7 · https://www.themoviedb.org/movie/1788052
+UID:tmdb-1287365@release-cal.local
+DTSTAMP:20261027T101701Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:🎬 The Liberation
+DESCRIPTION:Rita is entranced by the mesmeric Leader and renounces her family to embrace the world of the enigmatic Harmonia commune. Her daughters Ella and Jo put everything on the line to infiltrate the cult and bring their mother home. Yet\, once immersed in the commune\, they find themselv\n\nTMDB popularity 7 · https://www.themoviedb.org/movie/1287365
 CATEGORIES:MOVIE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1421903@release-cal.local
-DTSTAMP:20261026T101701Z
+DTSTAMP:20261027T101701Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:🎬 Werwulf
-DESCRIPTION:A harrowing tale of devotion\, damnation and the devil within.\n\nTMDB popularity 8 · https://www.themoviedb.org/movie/1421903
+DESCRIPTION:A harrowing tale of devotion\, damnation and the devil within.\n\nTMDB popularity 7 · https://www.themoviedb.org/movie/1421903
+CATEGORIES:MOVIE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb-1697911@release-cal.local
+DTSTAMP:20261027T101701Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:🎬 Drummer Boy
+DESCRIPTION:As America’s fight for independence begins\, a young drummer boy\, an enslaved woman\, and a divided family each search for freedom in a world built to deny it. With music carrying hope through battle and loss\, Drummer Boy turns the Revolution into a deeply human story of faith\, for\n\nTMDB popularity 7 · https://www.themoviedb.org/movie/1697911
 CATEGORIES:MOVIE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1496696@release-cal.local
-DTSTAMP:20261026T101701Z
+DTSTAMP:20261027T101701Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:🎬 Breeder
@@ -399,108 +389,18 @@ CATEGORIES:MOVIE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1287520@release-cal.local
-DTSTAMP:20261026T101701Z
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-SUMMARY:🎬 November 1963
-DESCRIPTION:Follows the 48 hours after the assassination of President John F. Kennedy\, the alleged involvement of Sam Giancana and the 'Chicago Outfit'\, and a supposed broken promise after the mob helped to get Kennedy elected.\n\nTMDB popularity 7 · https://www.themoviedb.org/movie/1287520
-CATEGORIES:MOVIE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1442761@release-cal.local
-DTSTAMP:20261026T101702Z
-DTSTART;VALUE=DATE:20270129
-DTEND;VALUE=DATE:20270130
-SUMMARY:🎬 Slayground
-DESCRIPTION:Scare-actor "Metal Mike" Graves wakes up in a haunted attraction surrounded by the dead bodies of his co-workers with no memory of how they got there. As a state-wide manhunt closes in\, he races to uncover the truth — even if the trail leads straight back to him.\n\nTMDB popularity 7 · https://www.themoviedb.org/movie/1442761
-CATEGORIES:MOVIE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1313587@release-cal.local
-DTSTAMP:20261026T101702Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
-SUMMARY:🎬 GROTESQQQUE
-DESCRIPTION:Anthology film made up of three separate segments:  A(E)LIENS\, YOROSHIKU★Girl\, and NOCTURNE: NUIT GROTESQUE.\n\nTMDB popularity 7 · https://www.themoviedb.org/movie/1313587
-CATEGORIES:MOVIE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1630464@release-cal.local
-DTSTAMP:20261026T101702Z
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261212
-SUMMARY:🎬 Clarissa
-DESCRIPTION:Across a single day in Lagos\, Nigeria\, Clarissa prepares to host a high society party at her home\, as her complicated past begins to consume her\, in the form of now-distant friends and loves from her youth. Simultaneously\, Septimus\, a young soldier\, is haunted by his own memories\n\nTMDB popularity 7 · https://www.themoviedb.org/movie/1630464
-CATEGORIES:MOVIE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1437925@release-cal.local
-DTSTAMP:20261026T101702Z
+UID:tmdb-1440157@release-cal.local
+DTSTAMP:20261027T101701Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-SUMMARY:🎬 Moulin
-DESCRIPTION:In June 1943\, Jean Moulin\, leader of the French Resistance\, is arrested while attempting to reunite the forces of the "Armée Secrète." Interrogated by Klaus Barbie\, the head of the Gestapo in Lyon\, Moulin is drawn into a relentless confrontation.\n\nTMDB popularity 7 · https://www.themoviedb.org/movie/1437925
-CATEGORIES:MOVIE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1050981@release-cal.local
-DTSTAMP:20261026T101702Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
-SUMMARY:🎬 Being Heumann
-DESCRIPTION:Scrappy\, defiant\, and done being treated like a burden\, Judy Heumann turns her outrage into a revolution. In 1977\, she and more than 100 disability rights protestors send a very loud message: The system is broken—not us.\n\nTMDB popularity 7 · https://www.themoviedb.org/movie/1050981
-CATEGORIES:MOVIE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1297467@release-cal.local
-DTSTAMP:20261026T101702Z
-DTSTART;VALUE=DATE:20270310
-DTEND;VALUE=DATE:20270311
-SUMMARY:🎬 The Exorcist: Martyrs
-DESCRIPTION:Thirteen years ago\, New York City detective Julie Miller ended the terror reign of satanic serial killer Father Sunday. The case made her a hero\, and she has thrown herself into her work ever since. Now a new killer scrawls her name in an altar boy's blood on the walls of a churc\n\nTMDB popularity 7 · https://www.themoviedb.org/movie/1297467
-CATEGORIES:MOVIE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1532610@release-cal.local
-DTSTAMP:20261026T101702Z
-DTSTART;VALUE=DATE:20261210
-DTEND;VALUE=DATE:20261211
-SUMMARY:🎬 Ink
-DESCRIPTION:A group of misfits and visionaries had an idea for a new kind of news - one that would give the people what they want\, and would change the face of the world we live in today.\n\nTMDB popularity 7 · https://www.themoviedb.org/movie/1532610
-CATEGORIES:MOVIE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-940009@release-cal.local
-DTSTAMP:20261026T101702Z
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261203
-SUMMARY:🎬 Ray Gunn
-DESCRIPTION:In Metropia\, a gigantic city in an alternate future as seen from 1939\, private eye Raymond Gunn is drawn into a case involving aliens\, murder and a multimedia star named Venus Nova.\n\nTMDB popularity 7 · https://www.themoviedb.org/movie/940009
-CATEGORIES:MOVIE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1697911@release-cal.local
-DTSTAMP:20261026T101702Z
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
-SUMMARY:🎬 Drummer Boy
-DESCRIPTION:As America’s fight for independence begins\, a young drummer boy\, an enslaved woman\, and a divided family each search for freedom in a world built to deny it. With music carrying hope through battle and loss\, Drummer Boy turns the Revolution into a deeply human story of faith\, for\n\nTMDB popularity 8 · https://www.themoviedb.org/movie/1697911
+SUMMARY:🎬 My Duchess
+DESCRIPTION:Telling the story of the final years of the woman who married King Edward VIII and broke up the monarchy.\n\nTMDB popularity 7 · https://www.themoviedb.org/movie/1440157
 CATEGORIES:MOVIE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1599230@release-cal.local
-DTSTAMP:20261026T101702Z
+DTSTAMP:20261027T101701Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:🎬 Elsinore
@@ -509,68 +409,48 @@ CATEGORIES:MOVIE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1473784@release-cal.local
-DTSTAMP:20261026T101702Z
+UID:tmdb-1630464@release-cal.local
+DTSTAMP:20261027T101702Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-SUMMARY:🎬 Bunker
-DESCRIPTION:When an architect accepts a morally ambiguous project — building a survivalist bunker for a tech billionaire — his wife of 17 years begins to question their relationship.\n\nTMDB popularity 7 · https://www.themoviedb.org/movie/1473784
+SUMMARY:🎬 Clarissa
+DESCRIPTION:Across a single day in Lagos\, Nigeria\, Clarissa prepares to host a high society party at her home\, as her complicated past begins to consume her\, in the form of now-distant friends and loves from her youth. Simultaneously\, Septimus\, a young soldier\, is haunted by his own memories\n\nTMDB popularity 6 · https://www.themoviedb.org/movie/1630464
 CATEGORIES:MOVIE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1287365@release-cal.local
-DTSTAMP:20261026T101702Z
-DTSTART;VALUE=DATE:20270106
-DTEND;VALUE=DATE:20270107
-SUMMARY:🎬 The Liberation
-DESCRIPTION:Rita is entranced by the mesmeric Leader and renounces her family to embrace the world of the enigmatic Harmonia commune. Her daughters Ella and Jo put everything on the line to infiltrate the cult and bring their mother home. Yet\, once immersed in the commune\, they find themselv\n\nTMDB popularity 8 · https://www.themoviedb.org/movie/1287365
+UID:tmdb-1442761@release-cal.local
+DTSTAMP:20261027T101702Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:🎬 Slayground
+DESCRIPTION:Scare-actor "Metal Mike" Graves wakes up in a haunted attraction surrounded by the dead bodies of his co-workers with no memory of how they got there. As a state-wide manhunt closes in\, he races to uncover the truth — even if the trail leads straight back to him.\n\nTMDB popularity 6 · https://www.themoviedb.org/movie/1442761
 CATEGORIES:MOVIE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1790569@release-cal.local
-DTSTAMP:20261026T101702Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:🎬 Princess
-DESCRIPTION:Twelve-year-old Kallpa has one big dream: to be chosen as Ñusta\, the sacred princess in her Andean community's Winter Solstice Festival. However\, she is barred from taking part because she was born in the body of a boy. As rigid traditions and growing rejection push her out\, Kall\n\nTMDB popularity 6 · https://www.themoviedb.org/movie/1790569
+UID:tmdb-1050981@release-cal.local
+DTSTAMP:20261027T101702Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:🎬 Being Heumann
+DESCRIPTION:Scrappy\, defiant\, and done being treated like a burden\, Judy Heumann turns her outrage into a revolution. In 1977\, she and more than 100 disability rights protestors send a very loud message: The system is broken—not us.\n\nTMDB popularity 6 · https://www.themoviedb.org/movie/1050981
 CATEGORIES:MOVIE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1450523@release-cal.local
-DTSTAMP:20261026T101702Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:🎬 The Assignment
-DESCRIPTION:The summer of 1947. Although it is already the second year of peace following the devastating Second World War\, its deep wounds are still everywhere. Thirteen-year-old Ewout\, is also recovering from the conflict. He is just a boy\, but he wants to be a man of distinction. He joins\n\nTMDB popularity 6 · https://www.themoviedb.org/movie/1450523
-CATEGORIES:MOVIE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1735284@release-cal.local
-DTSTAMP:20261026T101702Z
-DTSTART;VALUE=DATE:20270204
-DTEND;VALUE=DATE:20270205
-SUMMARY:🎬 Lion Queen
-DESCRIPTION:Following her father's sudden passing\, Xin\, A young designer\, returns to her roots to take over his struggling Lion Dance troupe.\n\nTMDB popularity 7 · https://www.themoviedb.org/movie/1735284
-CATEGORIES:MOVIE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1796421@release-cal.local
-DTSTAMP:20261026T101702Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-SUMMARY:🎬 Inside
-DESCRIPTION:Anonymous accounts of women who became victims of societal stigma after undergoing an abortion.\n\nTMDB popularity 6 · https://www.themoviedb.org/movie/1796421
+UID:tmdb-1532610@release-cal.local
+DTSTAMP:20261027T101702Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:🎬 Ink
+DESCRIPTION:A group of misfits and visionaries had an idea for a new kind of news - one that would give the people what they want\, and would change the face of the world we live in today.\n\nTMDB popularity 6 · https://www.themoviedb.org/movie/1532610
 CATEGORIES:MOVIE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1792170@release-cal.local
-DTSTAMP:20261026T101702Z
+DTSTAMP:20261027T101702Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:🎬 Model Citizen
@@ -579,18 +459,98 @@ CATEGORIES:MOVIE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1372443@release-cal.local
-DTSTAMP:20261026T101702Z
-DTSTART;VALUE=DATE:20261225
-DTEND;VALUE=DATE:20261226
-SUMMARY:🎬 Mr. Irrelevant
-DESCRIPTION:The last player selected in the 1983 NFL draft by the New York Giants\, underdog John Tuggle\, defies expectations on and off the field for head coach Bill Parcells\, his newfound love\, and his team\, proving that remarkable hope and perseverance can transcend even the greatest chall\n\nTMDB popularity 6 · https://www.themoviedb.org/movie/1372443
+UID:tmdb-1297467@release-cal.local
+DTSTAMP:20261027T101702Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:🎬 The Exorcist: Martyrs
+DESCRIPTION:Thirteen years ago\, New York City detective Julie Miller ended the terror reign of satanic serial killer Father Sunday. The case made her a hero\, and she has thrown herself into her work ever since. Now a new killer scrawls her name in an altar boy's blood on the walls of a churc\n\nTMDB popularity 7 · https://www.themoviedb.org/movie/1297467
+CATEGORIES:MOVIE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb-940009@release-cal.local
+DTSTAMP:20261027T101702Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:🎬 Ray Gunn
+DESCRIPTION:In Metropia\, a gigantic city in an alternate future as seen from 1939\, private eye Raymond Gunn is drawn into a case involving aliens\, murder and a multimedia star named Venus Nova.\n\nTMDB popularity 6 · https://www.themoviedb.org/movie/940009
+CATEGORIES:MOVIE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb-1313587@release-cal.local
+DTSTAMP:20261027T101702Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:🎬 GROTESQQQUE
+DESCRIPTION:Anthology film made up of three separate segments:  A(E)LIENS\, YOROSHIKU★Girl\, and NOCTURNE: NUIT GROTESQUE.\n\nTMDB popularity 7 · https://www.themoviedb.org/movie/1313587
+CATEGORIES:MOVIE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb-1287520@release-cal.local
+DTSTAMP:20261027T101702Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:🎬 November 1963
+DESCRIPTION:Follows the 48 hours after the assassination of President John F. Kennedy\, the alleged involvement of Sam Giancana and the 'Chicago Outfit'\, and a supposed broken promise after the mob helped to get Kennedy elected.\n\nTMDB popularity 7 · https://www.themoviedb.org/movie/1287520
+CATEGORIES:MOVIE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb-1794955@release-cal.local
+DTSTAMP:20261027T101702Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:🎬 Small Spaces
+DESCRIPTION:When an eccentric stranger promises to cure his claustrophobia\, a sceptical man agrees to her treatment\, only to discover that escaping his fear may cost him far more than living with it.\n\nTMDB popularity 5 · https://www.themoviedb.org/movie/1794955
+CATEGORIES:MOVIE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb-1788052@release-cal.local
+DTSTAMP:20261027T101702Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:🎬 First\, Do No Harm
+DESCRIPTION:Christian Polish gynecologist Alicja is visited by her old friend asking her to terminate her pregnancy. She has to make a difficult decision if she is going to obey her faith and laws or help her friend.\n\nTMDB popularity 6 · https://www.themoviedb.org/movie/1788052
+CATEGORIES:MOVIE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb-1473784@release-cal.local
+DTSTAMP:20261027T101702Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:🎬 Bunker
+DESCRIPTION:When an architect accepts a morally ambiguous project — building a survivalist bunker for a tech billionaire — his wife of 17 years begins to question their relationship.\n\nTMDB popularity 6 · https://www.themoviedb.org/movie/1473784
+CATEGORIES:MOVIE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb-1437925@release-cal.local
+DTSTAMP:20261027T101702Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:🎬 Moulin
+DESCRIPTION:In June 1943\, Jean Moulin\, leader of the French Resistance\, is arrested while attempting to reunite the forces of the "Armée Secrète." Interrogated by Klaus Barbie\, the head of the Gestapo in Lyon\, Moulin is drawn into a relentless confrontation.\n\nTMDB popularity 7 · https://www.themoviedb.org/movie/1437925
+CATEGORIES:MOVIE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb-1735284@release-cal.local
+DTSTAMP:20261027T101702Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+SUMMARY:🎬 Lion Queen
+DESCRIPTION:Following her father's sudden passing\, Xin\, A young designer\, returns to her roots to take over his struggling Lion Dance troupe.\n\nTMDB popularity 6 · https://www.themoviedb.org/movie/1735284
 CATEGORIES:MOVIE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1551025@release-cal.local
-DTSTAMP:20261026T101702Z
+DTSTAMP:20261027T101702Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:🎬 Guarding Stars
@@ -599,18 +559,8 @@ CATEGORIES:MOVIE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1425784@release-cal.local
-DTSTAMP:20261026T101702Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:🎬 Animol
-DESCRIPTION:Behind the walls of a young offender institution\, Troy is thrust into a brutal world of gangs\, loyalty and violence from the moment he arrives. When an unspoken bond develops with a fellow inmate\, it becomes a dangerous vulnerability for them.\n\nTMDB popularity 5 · https://www.themoviedb.org/movie/1425784
-CATEGORIES:MOVIE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb-1613021@release-cal.local
-DTSTAMP:20261026T101702Z
+DTSTAMP:20261027T101702Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:🎬 Camembert
@@ -619,28 +569,68 @@ CATEGORIES:MOVIE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1784178@release-cal.local
-DTSTAMP:20261026T101702Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-SUMMARY:🎬 Silt
-DESCRIPTION:Hadria\, haunted by guilt she cannot explain\, is talked into a weekend at an exclusive lakeside sanctuary by her best friend Sierra\, and Sierra’s boyfriend Scott. She has never warmed to the hosts\, Rick and Anna\, but she goes for a shot at something with Mike Warner\, a pro athlete\n\nTMDB popularity 5 · https://www.themoviedb.org/movie/1784178
+UID:tmdb-1790569@release-cal.local
+DTSTAMP:20261027T101702Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:🎬 Princess
+DESCRIPTION:Twelve-year-old Kallpa has one big dream: to be chosen as Ñusta\, the sacred princess in her Andean community's Winter Solstice Festival. However\, she is barred from taking part because she was born in the body of a boy. As rigid traditions and growing rejection push her out\, Kall\n\nTMDB popularity 5 · https://www.themoviedb.org/movie/1790569
 CATEGORIES:MOVIE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1594516@release-cal.local
-DTSTAMP:20261026T101702Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-SUMMARY:🎬 Holiday Ever After: A Disney World Wish Come True
-DESCRIPTION:Lindsey and her extended family head to Walt Disney World to spend a magical Christmas together\, but the dream of a jolly holiday gets quickly dashed when Lindsey discovers her room is next door to Philip\, a disastrous first date she recently had\, who’s also there on a family tri\n\nTMDB popularity 6 · https://www.themoviedb.org/movie/1594516
+UID:tmdb-1796421@release-cal.local
+DTSTAMP:20261027T101702Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:🎬 Inside
+DESCRIPTION:Anonymous accounts of women who became victims of societal stigma after undergoing an abortion.\n\nTMDB popularity 5 · https://www.themoviedb.org/movie/1796421
+CATEGORIES:MOVIE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb-1723807@release-cal.local
+DTSTAMP:20261027T101702Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:🎬 Break
+DESCRIPTION:With his shimmering scales\, the Rainbow Fish is the most beautiful fish in the entire ocean. But he is also vain and proud\, which alienates the other fish. As a result\, he becomes increasingly lonely. When he eventually loses one of his beloved glittering scales\, it is none other\n\nTMDB popularity 5 · https://www.themoviedb.org/movie/1723807
+CATEGORIES:MOVIE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb-1450523@release-cal.local
+DTSTAMP:20261027T101702Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:🎬 The Assignment
+DESCRIPTION:The summer of 1947. Although it is already the second year of peace following the devastating Second World War\, its deep wounds are still everywhere. Thirteen-year-old Ewout\, is also recovering from the conflict. He is just a boy\, but he wants to be a man of distinction. He joins\n\nTMDB popularity 5 · https://www.themoviedb.org/movie/1450523
+CATEGORIES:MOVIE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb-1251608@release-cal.local
+DTSTAMP:20261027T101702Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:🎬 The Blood Countess
+DESCRIPTION:The Blood Countess and her maid embark on a quest for the red elixir of life and a book that threatens the vampire realm. Hot on their heels are a police inspector\, two vampirologists\, a vegetarian nephew and his therapist.\n\nTMDB popularity 6 · https://www.themoviedb.org/movie/1251608
+CATEGORIES:MOVIE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb-1723637@release-cal.local
+DTSTAMP:20261027T101702Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:🎬 Father's House
+DESCRIPTION:In an intriguing cinematic exercise that straddles fiction and documentary\, 'Faderhuset' seeks to bare intricate workings of domination and manipulation\, as ex-members of the notorious Christian sect Faderhuset direct scenes with well-known Danish actors\, including Trine Dyrholm \n\nTMDB popularity 6 · https://www.themoviedb.org/movie/1723637
 CATEGORIES:MOVIE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1379486@release-cal.local
-DTSTAMP:20261026T101702Z
+DTSTAMP:20261027T101702Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:🎬 Victorian Psycho
@@ -649,78 +639,28 @@ CATEGORIES:MOVIE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1791392@release-cal.local
-DTSTAMP:20261026T101702Z
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261206
-SUMMARY:🎬 Regresa
-DESCRIPTION:After the tragic death of her son\, Phoebe is invited to a remote Mexican village to grieve\, but she instead finds a cult in a Raramuri sacred land that claims they can raise her son from the dead.\n\nTMDB popularity 5 · https://www.themoviedb.org/movie/1791392
-CATEGORIES:MOVIE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1770234@release-cal.local
-DTSTAMP:20261026T101702Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:🎬 BTS WORLD TOUR [ARIRANG] in São Paulo
-DESCRIPTION:The Latin American leg of BTS WORLD TOUR ‘ARIRANG’ reaches the big screen through a delayed presentation of the São Paulo concert. It brings the scale and excitement of BTS’s stadium performance into the cinema\, offering fans a communal live-viewing experience shaped by the energ\n\nTMDB popularity 5 · https://www.themoviedb.org/movie/1770234
-CATEGORIES:MOVIE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb-1408207@release-cal.local
-DTSTAMP:20261026T101702Z
+DTSTAMP:20261027T101702Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:🎬 Zero A.D.: The Birth of Christ
-DESCRIPTION:A star rises over Bethlehem as Christ is born. But when Herod orders the slaughter of the innocents\, Mary and Joseph must protect the child promised to save the world.\n\nTMDB popularity 6 · https://www.themoviedb.org/movie/1408207
+DESCRIPTION:A star rises over Bethlehem as Christ is born. But when Herod orders the slaughter of the innocents\, Mary and Joseph must protect the child promised to save the world.\n\nTMDB popularity 5 · https://www.themoviedb.org/movie/1408207
 CATEGORIES:MOVIE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1675781@release-cal.local
-DTSTAMP:20261026T101702Z
-DTSTART;VALUE=DATE:20270121
-DTEND;VALUE=DATE:20270122
-SUMMARY:🎬 Mate's Rate
-DESCRIPTION:After getting fired\, Uji\, a graphic designer\, teams up with her three closest friends to start a creative agency. Amid client demands\, family expectations\, and friendship dilemmas\, she hopes this could be a new beginning. But deeper she goes\, the more she realizes: every relation\n\nTMDB popularity 6 · https://www.themoviedb.org/movie/1675781
-CATEGORIES:MOVIE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1115030@release-cal.local
-DTSTAMP:20261026T101702Z
-DTSTART;VALUE=DATE:20270121
-DTEND;VALUE=DATE:20270122
-SUMMARY:🎬 Animal Friends
-DESCRIPTION:Two fugitive animals embark on an adventure across America to find the ranch that was once their home\, healing their friendship while pursued by an equally "odd-couple" DEA agent and Fish and Wildlife ranger with something to prove.\n\nTMDB popularity 5 · https://www.themoviedb.org/movie/1115030
-CATEGORIES:MOVIE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1198746@release-cal.local
-DTSTAMP:20261026T101702Z
-DTSTART;VALUE=DATE:20261203
-DTEND;VALUE=DATE:20261204
-SUMMARY:🎬 Above the Below
-DESCRIPTION:Three astronauts survive a violently destructive re-entry\, only to discover their landing capsule is sinking into the uncharted depths of the ocean. Completely cut off from the world\, they must battle both the sea and their isolation to survive.\n\nTMDB popularity 6 · https://www.themoviedb.org/movie/1198746
-CATEGORIES:MOVIE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1723807@release-cal.local
-DTSTAMP:20261026T101702Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:🎬 Break
-DESCRIPTION:With his shimmering scales\, the Rainbow Fish is the most beautiful fish in the entire ocean. But he is also vain and proud\, which alienates the other fish. As a result\, he becomes increasingly lonely. When he eventually loses one of his beloved glittering scales\, it is none other\n\nTMDB popularity 6 · https://www.themoviedb.org/movie/1723807
+UID:tmdb-1372443@release-cal.local
+DTSTAMP:20261027T101702Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:🎬 Mr. Irrelevant
+DESCRIPTION:The last player selected in the 1983 NFL draft by the New York Giants\, underdog John Tuggle\, defies expectations on and off the field for head coach Bill Parcells\, his newfound love\, and his team\, proving that remarkable hope and perseverance can transcend even the greatest chall\n\nTMDB popularity 6 · https://www.themoviedb.org/movie/1372443
 CATEGORIES:MOVIE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1796414@release-cal.local
-DTSTAMP:20261026T101702Z
+DTSTAMP:20261027T101702Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:🎬 Lyrical Vengeance
@@ -729,108 +669,8 @@ CATEGORIES:MOVIE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1718699@release-cal.local
-DTSTAMP:20261026T101702Z
-DTSTART;VALUE=DATE:20270416
-DTEND;VALUE=DATE:20270417
-SUMMARY:🎬 Not Alone
-DESCRIPTION:While preparing for a revolutionary space launch\, an introverted rocket mechanic and a brilliant astro-botanist spark an unexpected romance—only for three runaway aliens to crash-land in his home\, looking for a ride back to the stars.\n\nTMDB popularity 5 · https://www.themoviedb.org/movie/1718699
-CATEGORIES:MOVIE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1513713@release-cal.local
-DTSTAMP:20261026T101702Z
-DTSTART;VALUE=DATE:20270415
-DTEND;VALUE=DATE:20270416
-SUMMARY:🎬 Veselchak U
-DESCRIPTION:Space pirate Veselchak U is stranded on Earth in the present day after a run-in with Alisa Selezneva\, her mother\, and high school students from a Moscow school. More than anything\, he wants to seize the cosmion\, return to his own time\, and finally lead the Pirate Alliance. His se\n\nTMDB popularity 5 · https://www.themoviedb.org/movie/1513713
-CATEGORIES:MOVIE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1795451@release-cal.local
-DTSTAMP:20261026T101702Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-SUMMARY:🎬 Arthur & Clara
-DESCRIPTION:Pretentious filmmaker Arthur and entitled high-profile actress Clara find themselves at the same rural farmhouse\, to escape from their individual pressures. As they reluctantly start to connect\, their shared vulnerability leads them on an accidental journey of self-discovery\, rev\n\nTMDB popularity 5 · https://www.themoviedb.org/movie/1795451
-CATEGORIES:MOVIE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1789220@release-cal.local
-DTSTAMP:20261026T101702Z
-DTSTART;VALUE=DATE:20270212
-DTEND;VALUE=DATE:20270213
-SUMMARY:🎬 Trimmed
-DESCRIPTION:An American dancer arrives in Berlin to audition for a renowned dance company\, only to enter a strange world of rules and unspoken boundaries.\n\nTMDB popularity 5 · https://www.themoviedb.org/movie/1789220
-CATEGORIES:MOVIE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1598234@release-cal.local
-DTSTAMP:20261026T101702Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:🎬 The Project
-DESCRIPTION:An Afro-Brazilian filmmaker and a Swiss-Serbian photographer embark on a personal and political journey to confront the colonial mindset that still shapes relationships in today’s world. From Brazil\, one of the most unequal countries marked by structural racism\, to Switzerland\, o\n\nTMDB popularity 5 · https://www.themoviedb.org/movie/1598234
-CATEGORIES:MOVIE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1381273@release-cal.local
-DTSTAMP:20261026T101702Z
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-SUMMARY:🎬 Paper Tiger
-DESCRIPTION:Two brothers become entangled in a scheme that turns out to be too good to be true. As they try to navigate their way through the dangerous world of the Russian mafia\, family bonds begin to fray with life-altering consequences.\n\nTMDB popularity 6 · https://www.themoviedb.org/movie/1381273
-CATEGORIES:MOVIE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1306322@release-cal.local
-DTSTAMP:20261026T101702Z
-DTSTART;VALUE=DATE:20270422
-DTEND;VALUE=DATE:20270423
-SUMMARY:🎬 Spaceballs: The New One
-DESCRIPTION:Forty years after the events of the first Spaceballs\, the galaxy is once again under threat. A threat so evil\, so unstoppable\, so completely lacking in any original ideas\, that it has vowed to bring back the past... every last bit of it. With Lone Starr in hiding\, Queen Vespa on \n\nTMDB popularity 5 · https://www.themoviedb.org/movie/1306322
-CATEGORIES:MOVIE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1405002@release-cal.local
-DTSTAMP:20261026T101702Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
-SUMMARY:🎬 Fiesta Pagäna
-DESCRIPTION:The movie chronicles the untold story of the band from their origins in the 1980s\, highlighting their rise to fame\, creative tensions\, line-up changes\, internal dynamics\, controversies\, and fan culture.\n\nTMDB popularity 5 · https://www.themoviedb.org/movie/1405002
-CATEGORIES:MOVIE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1741641@release-cal.local
-DTSTAMP:20261026T101702Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-SUMMARY:🎬 Checking Inn for Christmas
-DESCRIPTION:Ambitious writer Claire visits a new Christmas retreat for a career-making article\, but falling for owner Julian forces her to choose between chasing headlines and embracing the season's true magic and her heart.\n\nTMDB popularity 6 · https://www.themoviedb.org/movie/1741641
-CATEGORIES:MOVIE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1770435@release-cal.local
-DTSTAMP:20261026T101702Z
-DTSTART;VALUE=DATE:20270212
-DTEND;VALUE=DATE:20270213
-SUMMARY:🎬 Cassi
-DESCRIPTION:Cassi is a waitress at a local diner whose life takes a dangerous turn when she romances a reclusive young mortician called Isaac. Their love quickly spirals into a murderous obsession\, but with detectives hot on their tail\, it forces Isaac to confront how much farther he's willi\n\nTMDB popularity 6 · https://www.themoviedb.org/movie/1770435
-CATEGORIES:MOVIE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb-1288438@release-cal.local
-DTSTAMP:20261026T101702Z
+DTSTAMP:20261027T101702Z
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
 SUMMARY:🎬 Godzilla x Kong: Supernova
@@ -840,31 +680,121 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1084728@release-cal.local
-DTSTAMP:20261026T101702Z
+DTSTAMP:20261027T101702Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:🎬 Asterix: The Kingdom of Nubia
-DESCRIPTION:The irreductible Gauls are turned into harmless children after a rare youth elixir accidentally ends up into the magic potion. To find the antidote and save the village from the Romans attack\, Asterix and Obelix embark on a crazy journey to the far away Kingdom of Nubia.\n\nTMDB popularity 6 · https://www.themoviedb.org/movie/1084728
+DESCRIPTION:The irreductible Gauls are turned into harmless children after a rare youth elixir accidentally ends up into the magic potion. To find the antidote and save the village from the Romans attack\, Asterix and Obelix embark on a crazy journey to the far away Kingdom of Nubia.\n\nTMDB popularity 5 · https://www.themoviedb.org/movie/1084728
 CATEGORIES:MOVIE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1723637@release-cal.local
-DTSTAMP:20261026T101702Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:🎬 Father's House
-DESCRIPTION:In an intriguing cinematic exercise that straddles fiction and documentary\, 'Faderhuset' seeks to bare intricate workings of domination and manipulation\, as ex-members of the notorious Christian sect Faderhuset direct scenes with well-known Danish actors\, including Trine Dyrholm \n\nTMDB popularity 6 · https://www.themoviedb.org/movie/1723637
+UID:tmdb-1381273@release-cal.local
+DTSTAMP:20261027T101702Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:🎬 Paper Tiger
+DESCRIPTION:Two brothers become entangled in a scheme that turns out to be too good to be true. As they try to navigate their way through the dangerous world of the Russian mafia\, family bonds begin to fray with life-altering consequences.\n\nTMDB popularity 5 · https://www.themoviedb.org/movie/1381273
 CATEGORIES:MOVIE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1078446@release-cal.local
-DTSTAMP:20261026T101702Z
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261203
-SUMMARY:🎬 Violent Night 2
-DESCRIPTION:When Santa forgets the true meaning of Christmas\, he finds himself in the heart of a lively mall community in desperate need of his help. Sapped of his magic\, he’ll need another way to take on the goons threatening the mall\, and time is running out. Santa has to rediscover his fa\n\nTMDB popularity 5 · https://www.themoviedb.org/movie/1078446
+UID:tmdb-1306322@release-cal.local
+DTSTAMP:20261027T101702Z
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+SUMMARY:🎬 Spaceballs: The New One
+DESCRIPTION:Forty years after the events of the first Spaceballs\, the galaxy is once again under threat. A threat so evil\, so unstoppable\, so completely lacking in any original ideas\, that it has vowed to bring back the past... every last bit of it. With Lone Starr in hiding\, Queen Vespa on \n\nTMDB popularity 5 · https://www.themoviedb.org/movie/1306322
+CATEGORIES:MOVIE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb-1405002@release-cal.local
+DTSTAMP:20261027T101702Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:🎬 Fiesta Pagäna
+DESCRIPTION:The movie chronicles the untold story of the band from their origins in the 1980s\, highlighting their rise to fame\, creative tensions\, line-up changes\, internal dynamics\, controversies\, and fan culture.\n\nTMDB popularity 6 · https://www.themoviedb.org/movie/1405002
+CATEGORIES:MOVIE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb-1791392@release-cal.local
+DTSTAMP:20261027T101702Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:🎬 Regresa
+DESCRIPTION:After the tragic death of her son\, Phoebe is invited to a remote Mexican village to grieve\, but she instead finds a cult in a Raramuri sacred land that claims they can raise her son from the dead.\n\nTMDB popularity 5 · https://www.themoviedb.org/movie/1791392
+CATEGORIES:MOVIE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb-1513713@release-cal.local
+DTSTAMP:20261027T101702Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:🎬 Veselchak U
+DESCRIPTION:Space pirate Veselchak U is stranded on Earth in the present day after a run-in with Alisa Selezneva\, her mother\, and high school students from a Moscow school. More than anything\, he wants to seize the cosmion\, return to his own time\, and finally lead the Pirate Alliance. His se\n\nTMDB popularity 5 · https://www.themoviedb.org/movie/1513713
+CATEGORIES:MOVIE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb-1796954@release-cal.local
+DTSTAMP:20261027T101702Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:🎬 Pop Pop
+DESCRIPTION:Dustin and Dibz are best pals\; they survived their senior year of college\, and their future looks bright. They share an apartment\, an internet series\, and the dream of finding their place in an uncertain landscape\, navigating male fragility and identity crisis. The challenges of \n\nTMDB popularity 6 · https://www.themoviedb.org/movie/1796954
+CATEGORIES:MOVIE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb-1763049@release-cal.local
+DTSTAMP:20261027T101702Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:🎬 Under Fire
+DESCRIPTION:As a fire captain in Idaho\, Rob has spent his life saving others. Now\, with the help of an experimental therapy\, he may just learn how to save himself.\n\nTMDB popularity 5 · https://www.themoviedb.org/movie/1763049
+CATEGORIES:MOVIE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb-1115030@release-cal.local
+DTSTAMP:20261027T101702Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:🎬 Animal Friends
+DESCRIPTION:Two fugitive animals embark on an adventure across America to find the ranch that was once their home\, healing their friendship while pursued by an equally "odd-couple" DEA agent and Fish and Wildlife ranger with something to prove.\n\nTMDB popularity 5 · https://www.themoviedb.org/movie/1115030
+CATEGORIES:MOVIE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb-718833@release-cal.local
+DTSTAMP:20261027T101702Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:🎬 Bokshi
+DESCRIPTION:Anahita\, traumatised by the brutal disappearance of her mother\, finds comfort in Shalini\, her history teacher. On an unconventional school excursion to a mysterious prehistoric site\, she confronts her terrifying destiny.\n\nTMDB popularity 5 · https://www.themoviedb.org/movie/718833
+CATEGORIES:MOVIE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb-1458300@release-cal.local
+DTSTAMP:20261027T101702Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:🎬 The Mosquito Bowl
+DESCRIPTION:In the aftermath of Pearl Harbor\, four college football stars enlist in the US Marines\, discovering the strength of brotherhood and the cost of war.\n\nTMDB popularity 5 · https://www.themoviedb.org/movie/1458300
+CATEGORIES:MOVIE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb-1570488@release-cal.local
+DTSTAMP:20261027T101702Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:🎬 A Dog's Perfect Christmas
+DESCRIPTION:Follows a family in crisis where a teenager\, her grandfather\, and his trusty basset hound struggle to keep the household together at Christmas.\n\nTMDB popularity 5 · https://www.themoviedb.org/movie/1570488
 CATEGORIES:MOVIE
 TRANSP:TRANSPARENT
 END:VEVENT
